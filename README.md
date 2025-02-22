@@ -95,11 +95,15 @@
 
 ## 口语练习 
 
+- [ChatGPT](https://chatgpt.com/) - 利用GPT的高级语音功能进行口语对话
+- [Conversation Exchange](https://www.conversationexchange.com/) - 免费语言交换平台
 - [iTalki](https://www.italki.com/) - 寻找外教一对一教学
+- [Duolingo](https://www.duolingo.com/) - 语言学习应用，包含发音练习和实时反馈
 - [Cambly](https://www.cambly.com/) - 与母语者练习口语
 - [Tandem](https://www.tandem.net/) - 语言交换应用
 - [HelloTalk](https://www.hellotalk.com/) - 寻找语言伙伴
 - [Speechling](https://speechling.com/) - 获取发音反馈
+- [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
 
 ## 视频学习 📺
 
