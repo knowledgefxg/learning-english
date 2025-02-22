@@ -23,7 +23,7 @@
 - [常见问题](#常见问题)
 - [参与贡献](#参与贡献)
 
-## 听力学习 🎧
+## 听力学习
 
 ### 播客资源 🎙️
 
@@ -52,7 +52,7 @@
 - [Fresh Air](https://www.npr.org/programs/fresh-air/) - 深度对话节目
 - [Desert Island Discs](https://www.bbc.co.uk/programmes/b006qnmr) - BBC经典访谈节目
 
-## 口语练习 🗣️
+## 口语练习 
 
 - [iTalki](https://www.italki.com/) - 寻找外教一对一教学
 - [Cambly](https://www.cambly.com/) - 与母语者练习口语
