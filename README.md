@@ -30,10 +30,22 @@
 播客提供生动有趣的内容来提升听力，涵盖多样化的主题和形式。
 
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish) - BBC官方英语学习播客
+- [A.J. Hoge](https://www.youtube.com/@AJHogeEffortlessEnglish) - 内容围绕着非常基础的词汇展开，语速发音都非常友好
 - [All Ears English](https://www.allearsenglish.com/) - 地道美式英语会话学习
+- [Speak English With Tiffani](https://www.youtube.com/@SpeakEnglishWithTiffani) - 播客内容围绕英语学习方法以及各种英语小技巧
 - [ESL Pod](https://www.eslpod.com/) - 清晰慢速的英语对话
+- [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 语速适中，很适合初学者
+- [Coffee Break English](https://coffeebreaklanguages.com/english/) - 每集大约15分钟，为初学者和中级英语学习者设计
 - [Luke's English Podcast](https://teacherluke.co.uk/) - 由专业英语教师主讲
+- [VOA Learning English](https://learningenglish.voanews.com/podcasts) - 美国之音（VOA）为有兴趣学习美式英语的人提供了大量播客选择
 - [6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) - 简短高效的英语课程
+- [Podcasts in English](https://www.podcastsinenglish.com/index.shtml) - 你可以免费访问数百集的节目。涵盖从初学者到高级学习者的不同等级
+- [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - 面向中高级英语学习者，通过探索我们周围世界的过去、现在和未来
+- [learnenglishpod](https://learnenglishpod.com/) - 提供多种有趣的课程和讨论，帮助提升英语水平
+- [Listening Time](https://open.spotify.com/playlist/0KktOlffEGngLS63SHp5v7) - 语速缓慢，适合新手
+- [Culips ESL Podcast](https://esl.culips.com/) - 由专业英语教师制作和主持的，他们的使命是让学习变得更有趣
+- [Business English](https://www.youtube.com/@BusinessEnglishPod) - 教授各种商务英语
+- [Espresso English Podcast](https://open.spotify.com/show/3apZ4F9LH9oI6DIjiQl6zR) - 专门针对ESL学习者经常遇到的常见问题
 
 ### 科技播客 💻
 
@@ -42,15 +54,44 @@
 - [TechCrunch Podcast](https://techcrunch.com/podcast) - 最新科技新闻
 - [This Week in Tech](https://twit.tv/shows/this-week-in-tech) - 每周科技话题讨论
 - [Syntax.fm](https://syntax.fm/) - 通俗易懂的Web开发讲解
-- [Code Newbie](https://www.codenewbie.org/podcast) - 适合编程初学者的播客
+- [Clockwise](https://www.relay.fm/clockwise) - 节奏快、时效性强且有趣
+- [Code Story](https://codestory.co/) - 深入了解创造改变世界、世界级科技过程中的起起落落
+- [Daily Tech News Show](https://dailytechnewsshow.com/category/episode/) - 报道当天最重要的科技新闻
+- [WSJ Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing) - 由华尔街日报团队每天专门提供重要的科技新闻
 
 ### 访谈节目 🎤
 
 学习自然对话和沟通技巧的绝佳资源。
 
 - [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - 发人深省的访谈节目
+- [Lex Fridman](https://www.youtube.com/@lexfridman) - Lex大佬访谈别的各行各业的大佬
 - [Fresh Air](https://www.npr.org/programs/fresh-air/) - 深度对话节目
 - [Desert Island Discs](https://www.bbc.co.uk/programmes/b006qnmr) - BBC经典访谈节目
+- [Andrew Huberman](https://www.youtube.com/@hubermanlab/featured) - 以科学但通俗易懂的方式向大众传播知识
+- [PowerfulJRE](https://www.youtube.com/@joerogan) - 和各领域嘉宾进行2-3小时的深度对话
+- [Tom Bilyeu](https://www.youtube.com/@TomBilyeu) - 聚焦成功人士的故事和经验
+- [H3 Podcast](https://www.youtube.com/@H3Podcast) - 经常邀请网红、艺人和有趣的网络文化人物
+- [First We Feast](https://www.youtube.com/@FirstWeFeast) - 独特的访谈形式：边吃辣翅边访谈哈哈😂
+- [The Graham Stephan Show](https://www.youtube.com/@TheGrahamStephanShow) - 邀请金融界人士和成功创业者进行访谈
+- [GaryVee](https://www.youtube.com/@garyvee) - 以创业、营销、个人品牌建设为主
+- [Big Think](https://www.youtube.com/@bigthink) - 短格式的思想领袖访谈
+- [Breakfast Club](https://www.youtube.com/@BreakfastClubPower1051FM) - 以嘻哈文化和娱乐新闻为主
+
+### 电台网站 📻
+
+收录各种国外电台，方便被动听力。
+
+- [NPR](https://www.npr.org/) - 提供新闻、文化、科技等多元内容，有优质的播客和文字稿
+- [BBC Radio](https://www.bbc.co.uk/sounds) - 包含多个频道（Radio 1-6），多为英式英语
+- [ABC Radio](https://www.abc.net.au/listen/radio) - 澳大利亚英语，本土新闻和文化节目
+- [TuneIn Radio](https://tunein.com/) - 汇集全球电台，免费收听，种类丰富
+- [Radio.com](https://www.audacy.com/) - 美国主流电台集合，涵盖新闻、音乐、体育等
+- [iHeartRadio](https://www.iheart.com/) - 大量直播电台和播客
+- [WNYC](https://www.wnyc.org/) - 纽约公共电台，高质量新闻和文化节目
+- [Radio New Zealand](https://www.rnz.co.nz/radio) - 新西兰国家电台，南半球视角
+- [ESPN Radio](https://www.espn.com/espnradio/) - 专注体育新闻和评论和直播
+- [OneStop Radio](https://theonestopradio.com/) - 一个可以免费收听全球190多个国家67000+电台的平台
+- [Radio Garden](https://radio.garden/settings) - 全球广播电台
 
 ## 口语练习 
 
