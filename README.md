@@ -15,7 +15,7 @@
 - [口语练习](#口语练习)
 - [视频学习](#视频学习)
 - [阅读材料](#阅读材料)
-- [写作提高](#写作提高)
+- [电子游戏](#电子游戏)
 - [语法学习](#语法学习)
 - [词汇积累](#词汇积累)
 - [实用工具](#实用工具)
@@ -177,8 +177,26 @@
 - [这个视频将会颠覆你对英语学习的认知——总述·阅读篇](https://www.bilibili.com/video/BV1aD4y127GE) - 年更up主告诉你中国的英语教育为何这么失败，以及可理解输入的重要性
 - [这个视频将会颠覆你对英语学习的认知——听说篇](https://www.bilibili.com/video/BV1tf4y1s7NN) - 或许可以解答你对语言学习（几乎）所有的问题
 - [5天就能記住1萬個單詞的方法，老師為什麽不教？](https://www.youtube.com/watch?v=AFgZbU3AhlY) - 如何用創造語言的思維去學習語言
+- [新概念英语第一册](https://www.youtube.com/watch?v=Sj3WqZu4P0E&list=PL7QPSCAroBojgp9-X2Dv8gPpFhHLcqvKF) - 讲师：霍娜老师
+- [新概念英语第二册](https://www.youtube.com/watch?v=SF8F62duryA&list=PL7QPSCAroBog_u72arS00YtJDBX0bFnXa) - 讲师：田静老师
+- [新概念英语第三册](https://www.youtube.com/watch?v=GKPNUd33ca8&list=PL7QPSCAroBoi8lh1Nis2P8s-Kez06mjue) - 讲师：李延隆老师
+- [新概念英语第四册](https://www.youtube.com/watch?v=SHH5tDljf5M&list=PL7QPSCAroBoguruChBG0rzSnvvn4MHAan) - 讲师：李延隆老师
 
-## 阅读材料 📖
+### 视频网站 📼
+
+这些网站可以让你通过娱乐化方式学习英语
+
+- [Netflix](https://www.netflix.com/) - 订阅制，拥有大量英文电影和电视剧，还有对应字幕
+- [Amazon Prime Vide](https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root) - 订阅制，包含英文电影和原创内容
+- [英配部落](https://mobile.edatribe.com/) - 含有大量英语配音的动漫网站
+- [Cineby](https://www.cineby.app/) - 免费英文电影/电视剧/动漫/TV show
+- [Bitcine](https://www.bitcine.app/) - 免费英文电影/电视剧/动漫/TV show
+- [Freek](https://freek.to/) - 免费英文电影/电视剧/动漫/TV show（有广告）
+- [Nunflix](https://nunflix.org/) - 免费英文电影/电视剧/动漫/TV show（有广告）
+- [Youtube影视专区](https://www.youtube.com/feed/storefront) - Youtube本身就有大量可以免费观看的影视哦
+- [点 点 字 幕 搜 索](https://www.samfunny.com/) - 一个专为美剧和英剧爱好者提供字幕资源的网站
+
+## 阅读材料
 
 ### 新闻网站 📰
 
@@ -200,13 +218,63 @@
 - [Poopfiction](http://readpoopfiction.com/) - 随机生成各种英语短故事在你嘘嘘拉大号的时候看
 - [100 Word Story](http://100wordstory.org/) - 专注于极短篇故事的创作和分享
 - [Z-library](https://z-library.sk/) - 全球最大的免费书籍下载网站，没有之一
+- [人人都能用英语](https://github.com/ZuodaoTech/everyone-can-use-english) - 作者李笑来编写的开源书，目的是帮助人们通过实用和高效的方法来学习英语
+- [新概念学习笔记分享](https://github.com/andylee1890/NewConceptEnglish) - 学习过程中也整理和记录的一些学习资料
 
-## 写作提高 ✍️
+## 电子游戏
 
-- [Lang-8](https://lang-8.com/) - 获取母语者改正
-- [Grammarly](https://www.grammarly.com/) - 写作辅助工具
-- [Write & Improve](https://writeandimprove.com/) - 剑桥写作反馈
-- [Hemingway Editor](http://www.hemingwayapp.com/) - 提高写作清晰度
+觉得学习英语过于单调，那么边玩游戏边练习吧！😘
+
+### 网页游戏 👾
+
+不用下载，打开网页直接就能玩耍
+
+- [Games to leran English](https://www.gamestolearnenglish.com/) - 内置多个小游戏，全面练习你的词汇，语法，听力等等
+- [ABCMouse](https://www.abcmouse.com/games) - 面向儿童的教育平台，提供丰富的游戏
+- [ESL games](https://www.eslgamesplus.com/) - 里面有丰富的互动游戏，可以磨练你的英语技能
+- [小小炼金术2](https://littlealchemy2.com/) - 通过游戏中的元素组合来学习英语词汇和物品之间的关系，用有趣的方式记住单词和句子表达
+- [Helpful games](https://www.helpfulgames.com/subjects/english/) - 各种小游戏锻炼你的听说读写
+- [Knoword](https://knoword.com/) - 一个基于游戏的教育平台，让学习词汇变得非常有趣
+- [Visual Thesaurus Spelling Bee](https://www.visualthesaurus.com/bee/play) - 听一个单词并尝试正确拼写
+- [Word Whomp](https://www.pogo.com/) - 各种免费的在线游戏,快速思考并创造尽可能多的单词
+- [Human Brain Cloud](https://www.humanbraincloud.com/) - 一款大型多人词语联想游戏，它既简单又复杂
+
+### 单机游戏 🎮
+
+需要下载，这里的游戏多为steam平台下载
+
+- [influent](https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/) - 一个语言学习游戏，主要用于单词和发音的学习
+- [Peter的英语冒险](https://store.steampowered.com/app/1726360/Peter/) - 不同于课堂学习，此款游戏没有测验或单词匹配练习，目的是为您提供一个有趣但具有挑战性的环境，让您通过沉浸式体验来加强英语学习，正如我们学习母语的方式一样！
+- [Linguist FPS](https://store.steampowered.com/app/1945590/Linguist_FPS/?curator_clanid=40391556) - 语言学习的FPS，第一人称射击游戏
+- [字母人](https://store.steampowered.com/app/336240/Typoman/) - 一款独特的字母解谜游戏，玩家通过组合字母来解决谜题并创造单词，既可以帮助记忆英语单词又能锻炼逻辑思维
+- [涂鸦冒险家](https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/) - 玩家通过输入英语单词来召唤任何想象得到的物品解决问题，通过这种方式可以有趣地学习和巩固英语词汇
+- [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/) - 一款以咖啡馆为背景的视觉小说游戏，玩家作为咖啡师倾听顾客的故事并调制饮品，通过真实的对话场景和丰富的英语表达来提升语言能力和理解能力
+- [奇异人生](https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/) - 玩家可以在沉浸式的故事体验中学习地道的英语表达和美国校园文化
+- [逆转裁判系列](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) - 学习大量法律术语、正式用语和日常对话，并且要仔细阅读证词和证据来找出矛盾点，这个过程能极大提升英语阅读理解能力
+- [To the Moon 去月球](https://store.steampowered.com/app/206440/To_the_Moon/) - 大量文学性的语言表达和情感词汇非常适合想要提升英语写作和表达能力的学习者
+- [赛博朋克酒保行动](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/) - 可学习大量现代英语俚语、科技词汇和情感表达
+- [文明系列](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/) - 通过模拟人类文明发展历程来学习历史、科技、文化、军事、外交等各领域的英语专业词汇和表达方式
+- [女神异闻录系列](https://store.steampowered.com/app/1687950/5/) - 丰富的日常校园对话，大量文本，对话回放
+- [维多利亚3](https://store.steampowered.com/app/529340/Victoria_3/) - 通过管理19世纪国家的方式学习历史、政治、经济、外交等领域的专业英语词汇和表达
+- [足球经理系列](https://store.steampowered.com/app/2252570/Football_Manager_2024/) - 通过管理足球俱乐部来学习体育、管理、谈判和媒体相关的英语专业用语
+- [维多利亚3](https://store.steampowered.com/app/529340/Victoria_3/) - 通过管理19世纪国家的方式学习历史、政治、经济、外交等领域的专业英语词汇和表达
+- [金融帝国实验室](https://www.capitalismlab.com/educational-uses-cn/) - 通过经营金融公司模拟来掌握金融、投资、商业管理等领域的英语专业术语和表达方式
+  
+  有英文配音的galgame：这些游戏特别适合想通过故事学英语的人，喜欢互动叙事的玩家⬇️
+
+- [Ethereal Enigma](https://store.steampowered.com/app/1069760/Ethereal_Enigma/)
+- [Bloody Chronicles](https://store.steampowered.com/app/455310/Bloody_Chronicles__New_Cycle_of_Death_Visual_Novel/)
+- [Chemically Bonded](https://store.steampowered.com/app/734900/Chemically_Bonded/)
+- [ACE Academy](https://store.steampowered.com/app/396650/ACE_Academy/)
+- [Highway Blossoms](https://store.steampowered.com/app/451760/Highway_Blossoms/)
+
+### 网络游戏 🛜
+
+这部分游戏就需要你有一定英语基础了，鼓励你主动与外国玩家交流，使用语音聊天功能
+
+- [魔兽世界](https://worldofwarcraft.blizzard.com/zh-tw/) - 大量英语交流机会，需要团队沟通
+- [我们之中](https://www.innersloth.com/games/among-us/) - 一款社交推理游戏，通过游戏中的紧张讨论和辩论来练习英语口语交际能力
+- [人间地狱](https://store.steampowered.com/app/686810/_/) - 通过二战背景的军事模拟游戏学习专业军事用语和团队协作英语交流
 
 ## 语法学习 📝
 
@@ -214,6 +282,10 @@
 - [英国文化协会语法课程](https://learnenglish.britishcouncil.org/grammar) - 免费课程
 - [完美英语语法](https://www.perfect-english-grammar.com/) - 清晰的语法讲解
 - [可汗学院语法课程](https://www.khanacademy.org/humanities/grammar) - 视频教学
+- [Lang-8](https://lang-8.com/) - 获取母语者改正
+- [Grammarly](https://www.grammarly.com/) - 写作辅助工具
+- [Write & Improve](https://writeandimprove.com/) - 剑桥写作反馈
+- [Hemingway Editor](http://www.hemingwayapp.com/) - 提高写作清晰度
 
 ## 词汇积累 📚
 
