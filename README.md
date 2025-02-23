@@ -16,7 +16,7 @@
 - [视频学习](#视频学习)
 - [阅读材料](#阅读材料)
 - [电子游戏](#电子游戏)
-- [语法学习](#语法学习)
+- [网站和博客](#网站和博客)
 - [词汇积累](#词汇积累)
 - [实用工具](#实用工具)
 - [练习与测试](#练习与测试)
@@ -117,6 +117,7 @@
 - [HelloTalk](https://www.hellotalk.com/) - 寻找语言伙伴
 - [Speechling](https://speechling.com/) - 获取发音反馈
 - [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
+- [发音技巧舌位图解](https://www.bilibili.com/video/BV1Ji4y1P7Lu) - 有具体舌位图，对发音很有帮助
 
 ## 视频学习
 
@@ -195,6 +196,7 @@
 - [Nunflix](https://nunflix.org/) - 免费英文电影/电视剧/动漫/TV show（有广告）
 - [Youtube影视专区](https://www.youtube.com/feed/storefront) - Youtube本身就有大量可以免费观看的影视哦
 - [点 点 字 幕 搜 索](https://www.samfunny.com/) - 一个专为美剧和英剧爱好者提供字幕资源的网站
+- [iHaveNoTV](https://ihavenotv.com/) - 一个免费的在线纪录片网站，收录了大量高质量英文纪录片，让你能通过观看BBC、PBS等优质纪录片来提升英语听力和专业词汇
 
 ## 阅读材料
 
@@ -211,6 +213,7 @@
 ### 英文书籍 📚
 
 - [freemagazines](https://freemagazines.top/) - 免费外刊杂志下载
+- [Hoopla](https://www.hoopladigital.com/) - 提供英文有声书，电子书，漫画等等内容
 - [经济学人、纽约客等英语外刊杂志下载](https://github.com/hehonghui/awesome-english-ebooks) - 英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [obooko](https://www.obooko.com/) - 免费英语书籍下载
 - [Wuxiaworld](https://www.wuxiaworld.com/) - 中国网络文学英译网站
@@ -218,8 +221,20 @@
 - [Poopfiction](http://readpoopfiction.com/) - 随机生成各种英语短故事在你嘘嘘拉大号的时候看
 - [100 Word Story](http://100wordstory.org/) - 专注于极短篇故事的创作和分享
 - [Z-library](https://z-library.sk/) - 全球最大的免费书籍下载网站，没有之一
+- [Bilinguis](http://zh.bilinguis.com/book/) - 支持双语阅读书籍，词汇较为简单，内容易懂
 - [人人都能用英语](https://github.com/ZuodaoTech/everyone-can-use-english) - 作者李笑来编写的开源书，目的是帮助人们通过实用和高效的方法来学习英语
 - [新概念学习笔记分享](https://github.com/andylee1890/NewConceptEnglish) - 学习过程中也整理和记录的一些学习资料
+- [Longreads](https://longreads.com/) - 一个专注于长篇优质文章的网站，对英语学习有很大帮助
+
+### 英文漫画 📚
+
+- [Webtoon](https://www.webtoons.com/en/) - 网络漫画平台，提供多种题材
+- [Nyaa](https://nyaa.si/) - 下载英配动漫+英译漫画网站
+- [Tapas](https://tapas.io/) - 独立创作者网络漫画平台
+- [Manga Plus](https://mangaplus.shueisha.co.jp/updates) - 日漫英文平台，提供免费阅读
+- [MangaPanda](https://mangapanda.onl/) - 一个免费英文漫画在线阅读的网站，涵盖海贼，火影等英文版漫画
+- [MangaDex](https://mangadex.org/) - 在线看英文漫画网站
+- [Bato](https://bato.to/) - 一个免费的在线漫画书网站。它还设有漫画小组和论坛，提供有关最新发布和更新的即时信息
 
 ## 电子游戏
 
@@ -276,16 +291,27 @@
 - [我们之中](https://www.innersloth.com/games/among-us/) - 一款社交推理游戏，通过游戏中的紧张讨论和辩论来练习英语口语交际能力
 - [人间地狱](https://store.steampowered.com/app/686810/_/) - 通过二战背景的军事模拟游戏学习专业军事用语和团队协作英语交流
 
-## 语法学习 📝
+## 网站和博客
 
-- [剑桥英语语法](https://www.cambridge.org/grammar-in-use) - 热门语法书
-- [英国文化协会语法课程](https://learnenglish.britishcouncil.org/grammar) - 免费课程
-- [完美英语语法](https://www.perfect-english-grammar.com/) - 清晰的语法讲解
-- [可汗学院语法课程](https://www.khanacademy.org/humanities/grammar) - 视频教学
-- [Lang-8](https://lang-8.com/) - 获取母语者改正
-- [Grammarly](https://www.grammarly.com/) - 写作辅助工具
-- [Write & Improve](https://writeandimprove.com/) - 剑桥写作反馈
-- [Hemingway Editor](http://www.hemingwayapp.com/) - 提高写作清晰度
+- [Lingoclip](https://lingoclip.com/) - 享受通过音乐学习语言
+- [LingoHut](https://www.lingohut.com/zh) - 你可以用自己的母语来学习超过45种语言
+- [英语语法网](http://www.yygrammar.com/) - 清晰的语法讲解，语法爱好者福音
+- [Visuwords](https://visuwords.com/) - 一个生动的交互式英语词典，可以将词语之间的关系以图形化的方式展示出来
+- [EAP Foundation](https://www.eapfoundation.com/) - 网站主要关注学术英语。提供了很多有用的资源，帮助提升写作、阅读、听力和语言能力
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish) - BBC出品的免费英语学习资源库
+- [Youglish](https://youglish.com/) - 通过YouTube视频片段学习英语单词的真实发音
+- [Quizlet](https://quizlet.com/cn) - 制作和分享在线词卡的学习工具，支持多种学习模式
+- [玄元祐语法](https://grammar.codeyu.com/) - 适合应试教育的英语语法写作
+- [面试中的英语](https://github.com/Interview-Science/interview-english) - English for Tech Interview 面试中的英语
+- [程序员雅思备考指南](https://ethan-lin.gitbook.io/ielts) - 备考思路、备考资料、考试形式、各科考试细节总结
+- [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc) - 一份基于克拉申语言学理论编写的在线文档,旨在为不同水平的英语自学者提供清晰的学习路径
+- [WordsFunny](https://wordsfunny.com/BeiShiGaoZhong_4/words) - 一个全栈英语单词学习网站,整合了各大权威教材和考试词汇
+- [音客](https://yinke.jinguizi07.cn/landing) - 采用独特的渐进式学习方法：通过听写训练实现单词的自然习得， 借助复述训练掌握地道表达
+- [FreeSubtitles](https://freesubtitles.ai/) - 可以免费生成视频字幕，我们只需要上传自己的生肉视频，然后经过转写后，就可以在线观看带字幕的视频
+- [Atomic Learning](https://en.atomiclearning.app/) - 每天会提供一段听力，有Normal和Hard两种模式选择，可以自由选择播放速度
+- [Infinite Craft](https://neal.fun/infinite-craft/) - 一个通过组合不同元素来创造新事物的游戏，在玩法中学习英语词汇和创意表达
+- [Crash Course](https://thecrashcourse.com/) - 一个提供高质量教育视频的网站，涵盖历史、科学、文学等多个学科的知识讲解，通过有趣的动画和清晰的解说来帮助你学习专业英语词汇和表达
+- [EnglishBanana](https://www.englishbanana.com/) - 这个网站提供超过4000页免费的可打印资源，用于教授和学习英语以及英语作为第二语言（ESL）。我们还免费提供英语课程书籍、播客和许多其他免费的资源
 
 ## 词汇积累 📚
 
