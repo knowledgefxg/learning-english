@@ -1,5 +1,5 @@
 # Learning English 🇬🇧
-
+![Learning English Banner](jjj.png)
 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 适合:
 
