@@ -7,6 +7,7 @@
 - 寻求系统练习的自学者
 - 寻找教学资源的教育工作者
 - 因工作、学习或旅行需要提高英语水平的专业人士
+项目持续更新，有合适的好资源会持续收录！
 
 ## 目录 📚
 
@@ -93,9 +94,21 @@
 - [OneStop Radio](https://theonestopradio.com/) - 一个可以免费收听全球190多个国家67000+电台的平台
 - [Radio Garden](https://radio.garden/settings) - 全球广播电台
 
+### ASMR专题 🎧
+
+适合希望在放松状态下提升听力，适合陪睡入眠
+
+- [The White Rabbit ASMR](https://www.youtube.com/watch?v=_VzWYTVPW6E) - 英语语法教学
+- [WhispersRed ASMR](https://www.youtube.com/user/WhispersRedASMR) - 英国英语角色扮演，语音清晰
+- [ASMR Teacher](https://www.youtube.com/watch?v=zQsV8VoOkrE) - 放松的词汇课，语音缓慢
+- [Teacher Tutors You on English](https://www.youtube.com/watch?v=y4kNe7sRYJs) - 模拟辅导场景
+
+
 ## 口语练习 
 
 - [ChatGPT](https://chatgpt.com/) - 利用GPT的高级语音功能进行口语对话
+- [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa/videos) - 专注于发音技巧讲解，自然交谈方式
+- [AccurateEnglish](https://www.youtube.com/@AccurateEnglish) - 专业发音训练
 - [Conversation Exchange](https://www.conversationexchange.com/) - 免费语言交换平台
 - [iTalki](https://www.italki.com/) - 寻找外教一对一教学
 - [Duolingo](https://www.duolingo.com/) - 语言学习应用，包含发音练习和实时反馈
@@ -105,15 +118,50 @@
 - [Speechling](https://speechling.com/) - 获取发音反馈
 - [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
 
-## 视频学习 📺
+## 视频学习
 
 ### YouTube频道 🎥
 
-- [English with Lucy](https://www.youtube.com/c/EnglishwithLucy) - 人气英语教学
+- [English with Lucy](https://www.youtube.com/c/EnglishwithLucy) - 美女教师人气英语教学
 - [Rachel's English](https://www.youtube.com/user/rachelsenglish) - 专注发音教学
+- [TED](https://www.youtube.com/@TED) - 不解释，养活无数英语学习博主的频道
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
-- [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 系统化课程
+- [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
+- [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
 - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - 通过美剧学英语
+- [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - 澳大利亚英语,实用口语表达
+- [ENGLISH with James](https://www.youtube.com/@engvidJames) - 深入的语法教学,学术写作技巧
+- [English with Emma](https://www.youtube.com/@engvidEmma) - 交一些美式日常英语，地道表达等等
+- [EnglishAnyone](https://www.youtube.com/@EnglishAnyone) - 利用课堂板书教授流利口语技巧，快速提升方法
+- [English Like A Native](https://www.youtube.com/@EnglishLikeANative) - 英式发音教学，文化习语讲解
+- [Learn English with Papa Teach Me](https://www.youtube.com/@EnglishLikeANative) - 家庭式教学风格，生动有趣的讲解
+- [E2 IELTS](https://www.youtube.com/@E2IELTS) - IELTS考试技巧
+- [ABC Learning English](https://www.youtube.com/@ABCLearningEnglish) - 发布各种学习英语的素材
+- [English Speeches](https://www.youtube.com/@EnglishSpeeches/featured) - 各种带字幕的英语演讲
+- [终身学外语](https://www.youtube.com/@practicemakesfluent) - 提供各种适合反复听的英语对话练习
+- [China Zone](https://www.youtube.com/@ChinaZone-English/featured) - 提供英语配音版本的中国电视剧，给你不一样的感觉
+- [StarTimes Selected TV](https://www.youtube.com/@StarTimesSelectedTv/featured) - 也是提供英语配音版本的中国电视剧
+- [4000 Essential English Words](https://www.youtube.com/@4000EssentialEnglishWords/featured) - 分享从初级到高级英语水平的有效词汇提升方法
+- [跟着小番茄学外语](https://www.youtube.com/@MsTomato/featured) - 分享常见英语句子，中英对照朗诵
+- [肯德拉语言学校](https://www.youtube.com/@KendrasLanguage/featured) - 提供丰富的易于练习的语言学习材料
+- [空中英語教室雜誌](https://www.youtube.com/@SCStudioclassroomCom/featured) - 與日常生活息息相關的英語會話、幽默短劇等等
+- [Cool English](https://www.youtube.com/@CooEnglish/featured) - 通过多样化的英语对话场景和地道的母语表达，为大家提供持续提升的学习方法
+- [Easy English](https://www.youtube.com/@easyenglish551/featured) - 包含各种话题的对话，帮助您提升英语词汇和口语能力
+- [English Comprehensible](https://www.youtube.com/@ComprehensibleEnglish/featured) - 强调自然习得、沉浸式学习的教学方法，而不是传统的语法翻译教学法
+- [English Conversation](https://www.youtube.com/@Daily-English-Conversation/featured) - 提供非常易懂的英语对话来学习
+- [English Fluency Journey](https://www.youtube.com/@EnglishFluencyJourney/featured) - 美女Anna老师帮你提高英语水平和改善口音
+- [English Speaking Course](https://www.youtube.com/@EnglishSpeakingCourses/featured) - 通过日常情境对话帮助你提高英语水平
+- [英语兔](https://www.youtube.com/@yingyutu/featured) - 分享适合应试教育的英语知识
+- [Brat TV](https://www.youtube.com/@brat/featured) - 非常实用的口语情景影视频道，用词用句不复杂
+- [Club James Studios](https://www.youtube.com/@ClubJamesStudios/featured) - 频道提供英语语法方面的教程
+- [Brian Wiles](https://www.youtube.com/@BrianWilesQuizzes/featured) - 分享英语学习技巧和各种英语知识
+- [Cool History Bros](https://www.youtube.com/@CoolHistoryBros/featured) - 通过英语动画来诉说中国其他地区的有趣神话、传说和历史故事。
+- [EngFluent](https://www.youtube.com/@engfluenttv) - 教你关于听说读写的英语学习方法
+- [Steve Kaufmann](https://www.youtube.com/@thelinguist) - 教你如何学习一门新语言,老爷子已经学会了20种语言
+- [Inglês Essencial](https://www.youtube.com/c/Ingl%C3%AAsEssencial/featured) - 有声英语电子书
+- [Quotes](https://www.youtube.com/@quotes_official) - 英语引言，边学英语边体会人生
+- [通过故事学习英语](https://www.youtube.com/@wooenglish) - 频道提供A1-C2级别的各种英语故事帮你学习英语
+- [English Speaking 360](https://www.youtube.com/@englishspeaking360) - 一名来自加拿大的认证英语教师教你英语语法，词汇，写作等等
 
 ### 热门美剧 📺
 
@@ -202,3 +250,6 @@
 ## 参与贡献 🤝
 
 欢迎贡献！如果你有好的资源，欢迎分享👏
+如果这个项目对你有帮助，请不要忘记给他一个star哦⭐️
+
+
