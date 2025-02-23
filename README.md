@@ -19,7 +19,7 @@
 - [网站和博客](#网站和博客)
 - [社交媒体](#社交媒体)
 - [实用工具](#实用工具)
-- [练习与测试](#练习与测试)
+- [其他资源](#其他资源)
 - [在线课程](#在线课程)
 - [常见问题](#常见问题)
 - [参与贡献](#参与贡献)
@@ -373,28 +373,30 @@
 - [Youtube 字幕下载](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Youtube 字幕下载工具
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
 
-## 练习与测试 📝
+## 其他资源
 
-- [雅思练习](https://www.ielts.org/for-test-takers/sample-test-questions) - 考试准备
-- [托福资源](https://www.ets.org/toefl/test-takers/ibt/prepare) - 官方材料
-- [剑桥评估](https://www.cambridgeenglish.org/test-your-english/) - 水平测试
-- [English Club测试](https://www.englishclub.com/esl-exams/) - 各类评估
+- [nglish-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 一个全面的英语学习指南。该指南基于作者的个人经验和学术成就，分享了有效的英语学习技巧
+- [英语语法笔记](https://hzpt-inet-club.github.io/english-note/) - 从0开始学习英语语法
+- [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2
 
-## 在线课程 👩‍🏫
+## 在线课程
 
-- [Coursera英语课程](https://www.coursera.org/browse/language-learning/learning-english)
+- [Coursera英语课程](https://www.coursera.org/courses?query=english%20speaking)
+- [Udemy英语课程](https://www.udemy.com/topic/english-language/)
 - [edX英语学习](https://www.edx.org/learn/english)
 - [Future Learn](https://www.futurelearn.com/subjects/languages-and-cultures-courses/learn-english)
 - [英国文化协会课程](https://www.futurelearn.com/partners/british-council)
+- [网易云英语课堂](https://study.163.com/category/480000004129001)
 
-## 常见问题 ❓
+## 常见问题
 
-- [如何开始学习英语？](https://www.reddit.com/r/EnglishLearning/wiki/index)
-- [提高口语的最佳方法？](https://www.reddit.com/r/languagelearning/wiki/faq#wiki_speaking)
-- [如何准备雅思考试？](https://ieltsliz.com/how-to-prepare-for-ielts/)
-- [写作练习技巧](https://www.reddit.com/r/EnglishLearning/wiki/writing)
+- [如何开始学习英语？](https://www.wikihow.com/Learn-English)
+- [提高口语的最佳方法？](https://www.fluentu.com/blog/english/how-to-improve-english-speaking-skills/)
+- [如何准备雅思考试？](https://www.bilibili.com/video/BV1gq4y117Mv)
+- [写作练习技巧](https://www.bbc.com/zhongwen/simp/world-49205521)
 
-## 参与贡献 🤝
+## 参与贡献
 
 欢迎贡献！如果你有好的资源，欢迎分享👏
 如果这个项目对你有帮助，请不要忘记给他一个star哦⭐️
