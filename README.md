@@ -17,7 +17,7 @@
 - [阅读材料](#阅读材料)
 - [电子游戏](#电子游戏)
 - [网站和博客](#网站和博客)
-- [词汇积累](#词汇积累)
+- [社交媒体](#社交媒体)
 - [实用工具](#实用工具)
 - [练习与测试](#练习与测试)
 - [在线课程](#在线课程)
@@ -313,25 +313,38 @@
 - [Crash Course](https://thecrashcourse.com/) - 一个提供高质量教育视频的网站，涵盖历史、科学、文学等多个学科的知识讲解，通过有趣的动画和清晰的解说来帮助你学习专业英语词汇和表达
 - [EnglishBanana](https://www.englishbanana.com/) - 这个网站提供超过4000页免费的可打印资源，用于教授和学习英语以及英语作为第二语言（ESL）。我们还免费提供英语课程书籍、播客和许多其他免费的资源
 
-## 词汇积累 📚
+## 社交媒体
 
-### 词汇表 📝
+收集各个平台上有价值的账号，可以帮助提升英语学习。
 
-- [牛津3000词](https://www.oxfordlearnersdictionaries.com/about/oxford3000) - 核心词汇
-- [学术词汇表](https://www.victoria.ac.nz/lals/resources/academicwordlist) - 学术英语词汇
-- [托福词汇](https://www.vocabulary.com/lists/194479) - 考试备考词汇
+### X（原推特） x
 
-### 单词卡片工具 🎴
+- [@grammarenglis](https://x.com/grammarenglis)
+- [@knowiiiedge](https://x.com/knowiiiedge)
+- [@Egrammertipss](https://x.com/Egrammertipss)
+- [@learnenglishtip](https://x.com/learnenglishtip)
+- [@mathenglish4all](https://x.com/mathenglish4all)
+- [@knowiiedges](https://x.com/knowiiedges)
+- [@englishclasse_](https://x.com/englishclasse_)
+- [@englishlearntip](https://x.com/englishlearntip)
+- [@IearnEngIlsh](https://x.com/IearnEngIlsh)
+- [@24hrsIearn](https://x.com/24hrsIearn)
+- [@KnowIedgehubb](https://x.com/KnowIedgehubb)
+- [@ajhogeofficial](https://x.com/ajhogeofficial)
+- [@duolingo](https://x.com/duolingo)
+- [@EnglishClub](https://x.com/EnglishClub)
+- [@monicats](https://x.com/monicats)
 
-- [Anki](https://apps.ankiweb.net/) - 间隔重复记忆系统
-- [Quizlet](https://quizlet.com/) - 学习集和游戏
-- [Memrise](https://www.memrise.com/) - 多媒体单词卡
+### Bilibili ʙ
 
-### 在线词典 📖
+- [罗肖尼Shawney](https://space.bilibili.com/323794482)
+- [英语兔](https://space.bilibili.com/483162496)
+- [赖世雄讲英语](https://space.bilibili.com/1322170180)
+- [JackyangMiao](https://space.bilibili.com/12359115)
 
-- [剑桥词典](https://dictionary.cambridge.org/) - 英式和美式英语
-- [朗文词典](https://www.ldoceonline.com/) - 学习者词典
-- [韦氏词典](https://www.merriam-webster.com/) - 美式英语词典
+### 其他平台 📖
+
+正在收集
 
 ## 实用工具 🛠️
 
