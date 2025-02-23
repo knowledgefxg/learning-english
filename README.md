@@ -7,7 +7,7 @@
 - 寻求系统练习的自学者
 - 寻找教学资源的教育工作者
 - 因工作、学习或旅行需要提高英语水平的专业人士
-项目持续更新，有合适的好资源会持续收录！
+- 项目持续更新，有合适的好资源会持续收录！
 
 ## 目录 📚
 
@@ -122,6 +122,8 @@
 
 ### YouTube频道 🎥
 
+平常遇到的还觉得不错的英语学习频道
+
 - [English with Lucy](https://www.youtube.com/c/EnglishwithLucy) - 美女教师人气英语教学
 - [Rachel's English](https://www.youtube.com/user/rachelsenglish) - 专注发音教学
 - [TED](https://www.youtube.com/@TED) - 不解释，养活无数英语学习博主的频道
@@ -163,12 +165,18 @@
 - [通过故事学习英语](https://www.youtube.com/@wooenglish) - 频道提供A1-C2级别的各种英语故事帮你学习英语
 - [English Speaking 360](https://www.youtube.com/@englishspeaking360) - 一名来自加拿大的认证英语教师教你英语语法，词汇，写作等等
 
-### 热门美剧 📺
+### 学习视频 📺
 
-- [老友记](https://www.imdb.com/title/tt0108778/) - 经典情景喜剧，对话清晰
-- [王冠](https://www.netflix.com/title/80025678) - 了解英式英语
-- [摩登家庭](https://www.imdb.com/title/tt1442437/) - 现代美式英语
-- [BBC新闻](https://www.bbc.com/news) - 专业英式英语
+一些非常适合提升英语的视频内容
+
+- [西游记英文版](https://www.youtube.com/playlist?list=PLOHG5PB2LOcizYqruRC9KHm3AA6IjbfN5) - 西游记官方英文版，语速用词友好，你完全能听懂！
+- [English Conversation Very Funny](https://www.youtube.com/playlist?list=PLzQug2pV17x8hSMkFr0B8SaFp3HbxQHS3) - 非常有趣的英语情景喜剧，总共三集，听懂无鸭梨
+- [Real English Conversation](https://www.youtube.com/watch?v=tmionzqiRHY&list=PLzQug2pV17x-KDtTBMdU1_0XXxkGvQeVD) - 寓教于乐的初级英语情景对话教学
+- [Extra English](https://www.youtube.com/playlist?list=PLdYSWqTrWP2jyqWIdjsATbrb11uN_BMrF) - 一个语言教育电视节目系列，以《老友记》式情景喜剧的形式编写
+- [如何用英语思考，建立你的英语大脑](https://www.bilibili.com/video/BV1TD4y1q7u9) - 如何无需翻译即可轻松说英语，视频能给你不少思考
+- [这个视频将会颠覆你对英语学习的认知——总述·阅读篇](https://www.bilibili.com/video/BV1aD4y127GE) - 年更up主告诉你中国的英语教育为何这么失败，以及可理解输入的重要性
+- [这个视频将会颠覆你对英语学习的认知——听说篇](https://www.bilibili.com/video/BV1tf4y1s7NN) - 或许可以解答你对语言学习（几乎）所有的问题
+- [5天就能記住1萬個單詞的方法，老師為什麽不教？](https://www.youtube.com/watch?v=AFgZbU3AhlY) - 如何用創造語言的思維去學習語言
 
 ## 阅读材料 📖
 
@@ -178,12 +186,20 @@
 - [News in Levels](https://www.newsinlevels.com/) - 多难度级别新闻
 - [简明英语维基](https://simple.wikipedia.org/) - 易于理解的维基百科
 - [VOA慢速英语](https://learningenglish.voanews.com/) - 简化版新闻
+- [English Current](https://www.englishcurrent.com/) - 带词汇解释的新闻文章
+- [Easy English News](https://www.easyenglishnews.com/) - 简单英语新闻，附音频和习题
+- [Buzzing](https://www.buzzing.cc/) - 全球热门新闻双语速览
 
 ### 英文书籍 📚
 
-- [分级读物](https://www.penguinreaders.com/) - 适合不同水平的读物
-- [牛津读物系列](https://elt.oup.com/catalogue/items/global/graded_readers/) - 改编经典故事
-- [剑桥读物系列](https://www.cambridge.org/gb/cambridgeenglish/catalog/readers) - 现代和经典作品
+- [freemagazines](https://freemagazines.top/) - 免费外刊杂志下载
+- [经济学人、纽约客等英语外刊杂志下载](https://github.com/hehonghui/awesome-english-ebooks) - 英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- [obooko](https://www.obooko.com/) - 免费英语书籍下载
+- [Wuxiaworld](https://www.wuxiaworld.com/) - 中国网络文学英译网站
+- [TypeLit](https://www.typelit.io/) - 通过练习您最喜欢的文学作品来在线测试您的打字能力
+- [Poopfiction](http://readpoopfiction.com/) - 随机生成各种英语短故事在你嘘嘘拉大号的时候看
+- [100 Word Story](http://100wordstory.org/) - 专注于极短篇故事的创作和分享
+- [Z-library](https://z-library.sk/) - 全球最大的免费书籍下载网站，没有之一
 
 ## 写作提高 ✍️
 
