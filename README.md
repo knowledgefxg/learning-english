@@ -182,6 +182,7 @@
 - [新概念英语第二册](https://www.youtube.com/watch?v=SF8F62duryA&list=PL7QPSCAroBog_u72arS00YtJDBX0bFnXa) - 讲师：田静老师
 - [新概念英语第三册](https://www.youtube.com/watch?v=GKPNUd33ca8&list=PL7QPSCAroBoi8lh1Nis2P8s-Kez06mjue) - 讲师：李延隆老师
 - [新概念英语第四册](https://www.youtube.com/watch?v=SHH5tDljf5M&list=PL7QPSCAroBoguruChBG0rzSnvvn4MHAan) - 讲师：李延隆老师
+- [English Conversation](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56MbILOmdXvGV_3kE9) - 适合初学者的情景对话
 
 ### 视频网站 📼
 
@@ -346,11 +347,30 @@
 
 正在收集
 
-## 实用工具 🛠️
+## 实用工具
 
-- [LyricsTraining](https://lyricstraining.com/) - 通过音乐学习
-- [YouGlish](https://youglish.com/) - 发音示例
-- [Forvo](https://forvo.com/) - 单词发音库
+- [Anki](https://github.com/ankitects/anki) - 一款基于间隔重复（Spaced Repetition）技术的学习软件，广泛用于帮助记忆词汇、语法和其他学习内容。它通过卡片的形式帮助用户复习和加深记忆，尤其适合语言学习、医学考试等需要大量记忆的领域。通过定期复习，Anki 可以大幅提高学习效率和记忆的长期保持
+- [DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平
+- [Lexile](https://hub.lexile.com/) - 专注于帮助用户找到适合其阅读水平的书籍、文章和其他教育资源。该平台通过蓝思指数评估文本的难度，帮助用户根据个人阅读能力选择合适的材料
+- [Enjoy](https://1000h.org/) - 开源的AI英语助教
+- [PlayPhrase](https://www.playphrase.me/) - 让你通过搜索电影片段来学习英语短语的实际使用场景，是个把电影变成英语学习工具的网站
+- [巴别英语](https://www.babelabc.com/) - 通过精选影视片段来学习地道英语口语和表达的学习软件，每个片段都配有详细讲解
+- [Grammarly](https://www.grammarly.com/) - 强大的英语写作辅助工具，能够帮助用户检测和纠正语法、拼写、标点、句子结构等方面的错误
+- [Vocabulary.com](https://www.vocabulary.com/) - 一个在线词汇学习平台，提供词汇测试、定义、例句和学习工具，帮助用户扩展词汇量并提高词汇记忆
+- [Enpuz](https://enpuz.com/) - 一款英语学习 AI 小工具，主要是在线英语句子语法分析
+- [VoiceTube](https://www.voicetube.com/) - 看视频学英语，支持双语字幕和难度分级
+- [Prowriting](https://prowritingaid.com/) - 英语写作润色网站
+- [Find a Book](https://hub.lexile.com/find-a-book/) - 找书的网站，可以根据自己的水平找到感兴趣的书籍
+- [Readu](https://readu.io/readupedia/) - 提供多种适合不同年龄段的书籍、故事和学习材料
+- [Language Reactor ](https://www.languagereactor.com/) - 一个让你在看视频时自动获得语言学习辅助的插件工具，把娱乐变成高效学习
+- [OnlineCorrection](https://www.onlinecorrection.com/) - 英语语法检查在线工具
+- [GetYarn](https://getyarn.io/) - 类似 PlayPhrase 的网站，让你能搜索电影和电视剧中的台词片段，查看其使用场景，并通过原声视频加深记忆的学习工具
+- [Youtube双语字幕](https://chromewebstore.google.com/detail/youtube%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95-youtube%E5%AD%97%E5%B9%95%E5%A2%9E%E5%BC%BA-c/imeedihedcjeieaokdpgandbgpjmadoh) - 一个浏览器插件，提供Youtube双语字幕与Youtube字幕增强、ChatGPT 翻译、单词收藏等英语学习功能
+- [TasteDive](https://tastedive.com/) - 一个基于你已喜欢的电影、电视剧、书籍、音乐等内容，智能推荐相似作品的网站，有助于找到适合你水平和兴趣的英语学习材料
+- [qwerty](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
+- [Earthworm](https://github.com/cuixueshe/earthworm) - 通过使用 连词成句 、 i + 1 、 以终为始等学习理论来帮助你习得英语
+- [BlueSea](https://github.com/jiangqizheng/BlueSea) - 一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计
+- [Youtube 字幕下载](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Youtube 字幕下载工具
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
 
 ## 练习与测试 📝
