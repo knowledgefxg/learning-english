@@ -16,7 +16,7 @@
 - [视频学习](#视频学习)
 - [阅读材料](#阅读材料)
 - [电子游戏](#电子游戏)
-- [网站和博客](#网站和博客)
+- [网站博客](#网站博客)
 - [社交媒体](#社交媒体)
 - [实用工具](#实用工具)
 - [其他资源](#其他资源)
@@ -47,6 +47,7 @@
 - [Culips ESL Podcast](https://esl.culips.com/) - 由专业英语教师制作和主持的，他们的使命是让学习变得更有趣
 - [Business English](https://www.youtube.com/@BusinessEnglishPod) - 教授各种商务英语
 - [Espresso English Podcast](https://open.spotify.com/show/3apZ4F9LH9oI6DIjiQl6zR) - 专门针对ESL学习者经常遇到的常见问题
+- [Speak English With Class](https://www.youtube.com/@speakenglishwithclass) - 精选的一系列免费、播客风格的视频，让学习英语既有趣又有效
 
 ### 科技播客 💻
 
@@ -107,6 +108,7 @@
 ## 口语练习 
 
 - [ChatGPT](https://chatgpt.com/) - 利用GPT的高级语音功能进行口语对话
+- [Grok](https://x.ai/grok) - X旗下的AI工具，有高级语音功能，甚至可以涩涩
 - [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa/videos) - 专注于发音技巧讲解，自然交谈方式
 - [AccurateEnglish](https://www.youtube.com/@AccurateEnglish) - 专业发音训练
 - [Conversation Exchange](https://www.conversationexchange.com/) - 免费语言交换平台
@@ -165,6 +167,8 @@
 - [Quotes](https://www.youtube.com/@quotes_official) - 英语引言，边学英语边体会人生
 - [通过故事学习英语](https://www.youtube.com/@wooenglish) - 频道提供A1-C2级别的各种英语故事帮你学习英语
 - [English Speaking 360](https://www.youtube.com/@englishspeaking360) - 一名来自加拿大的认证英语教师教你英语语法，词汇，写作等等
+- [口语老炮儿马思瑞](https://www.youtube.com/@LaomaChris) - 主要讲英语学习方法技巧
+- [TED-Ed](https://www.youtube.com/@TEDEd) - 通过动画小短片来学习英语的同时涨各种知识
 
 ### 学习视频 📺
 
@@ -211,7 +215,7 @@
 - [Easy English News](https://www.easyenglishnews.com/) - 简单英语新闻，附音频和习题
 - [Buzzing](https://www.buzzing.cc/) - 全球热门新闻双语速览
 
-### 英文书籍 📚
+### 英文小说/书籍 📚
 
 - [freemagazines](https://freemagazines.top/) - 免费外刊杂志下载
 - [Hoopla](https://www.hoopladigital.com/) - 提供英文有声书，电子书，漫画等等内容
@@ -226,6 +230,8 @@
 - [人人都能用英语](https://github.com/ZuodaoTech/everyone-can-use-english) - 作者李笑来编写的开源书，目的是帮助人们通过实用和高效的方法来学习英语
 - [新概念学习笔记分享](https://github.com/andylee1890/NewConceptEnglish) - 学习过程中也整理和记录的一些学习资料
 - [Longreads](https://longreads.com/) - 一个专注于长篇优质文章的网站，对英语学习有很大帮助
+- [English Short Stories for Beginners](https://www.english-for-students.com/Short-Stories.html) - 提供专门为英语学习者撰写的短文
+- [American Literature](https://americanliterature.com/) - 网站提供了大量的经典文学作品，而且语法用词简单
 
 ### 英文漫画 📚
 
@@ -292,7 +298,7 @@
 - [我们之中](https://www.innersloth.com/games/among-us/) - 一款社交推理游戏，通过游戏中的紧张讨论和辩论来练习英语口语交际能力
 - [人间地狱](https://store.steampowered.com/app/686810/_/) - 通过二战背景的军事模拟游戏学习专业军事用语和团队协作英语交流
 
-## 网站和博客
+## 网站博客
 
 - [Lingoclip](https://lingoclip.com/) - 享受通过音乐学习语言
 - [LingoHut](https://www.lingohut.com/zh) - 你可以用自己的母语来学习超过45种语言
@@ -321,6 +327,7 @@
 ### X（原推特） x
 
 - [@grammarenglis](https://x.com/grammarenglis)
+- [@ajhoge](https://x.com/ajhoge)
 - [@knowiiiedge](https://x.com/knowiiiedge)
 - [@Egrammertipss](https://x.com/Egrammertipss)
 - [@learnenglishtip](https://x.com/learnenglishtip)
