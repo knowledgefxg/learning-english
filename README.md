@@ -19,6 +19,7 @@
 - [网站博客](#网站博客)
 - [社交媒体](#社交媒体)
 - [实用工具](#实用工具)
+- [适合应试](#适合应试)
 - [其他资源](#其他资源)
 - [在线课程](#在线课程)
 - [常见问题](#常见问题)
@@ -60,6 +61,8 @@
 - [Code Story](https://codestory.co/) - 深入了解创造改变世界、世界级科技过程中的起起落落
 - [Daily Tech News Show](https://dailytechnewsshow.com/category/episode/) - 报道当天最重要的科技新闻
 - [WSJ Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing) - 由华尔街日报团队每天专门提供重要的科技新闻
+- [20VC with Harry Stebbings](https://www.youtube.com/@20vc) - 聚焦风险投资领域，每期与顶尖投资人、企业家对话
+- [Tim Ferriss](https://www.youtube.com/@timferriss) - 采访各个领域的顶级人物，拆解成功人士的方方面面
 
 ### 访谈节目 🎤
 
@@ -78,6 +81,17 @@
 - [GaryVee](https://www.youtube.com/@garyvee) - 以创业、营销、个人品牌建设为主
 - [Big Think](https://www.youtube.com/@bigthink) - 短格式的思想领袖访谈
 - [Breakfast Club](https://www.youtube.com/@BreakfastClubPower1051FM) - 以嘻哈文化和娱乐新闻为主
+
+### 脱口秀 🙊
+
+以下是几个受欢迎的英语脱口秀节目,这些节目风格各异，适合练习英语听力，也能了解西方文化和时事热点
+
+- [The Daily Show](https://www.youtube.com/c/TheDailyShow) - 一档政治讽刺类脱口秀，幽默解读时事新闻
+- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/c/fallontonight) - 由吉米·法伦主持，轻松有趣，包含名人采访和搞笑游戏
+- [Jimmy Kimmel Live](https://www.youtube.com/c/JimmyKimmelLive) - 由吉米·坎摩尔主持，以名人采访和搞笑短片为特色
+- [Team Coco](https://www.youtube.com/c/TeamCoco) - 由柯南·奥布莱恩主持的脱口秀和播客，风格幽默风趣
+- [LastWeekTonight](https://www.youtube.com/@LastWeekTonight) - 深入剖析社会议题，兼具娱乐性和信息量
+- [The Late Show with Stephen Colbert](https://www.youtube.com/@ColbertLateShow) - 以幽默方式剖析新闻和社会热点，风格机智犀利
 
 ### 电台网站 📻
 
@@ -133,6 +147,7 @@
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
 - [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
 - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
+- [EngFluent](https://www.youtube.com/@engfluenttv) - 专注于帮助非英语母语者快速提升口语表达，让你告别死记硬背，实现英语流利表达
 - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - 通过美剧学英语
 - [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - 澳大利亚英语,实用口语表达
 - [ENGLISH with James](https://www.youtube.com/@engvidJames) - 深入的语法教学,学术写作技巧
@@ -160,15 +175,18 @@
 - [Brat TV](https://www.youtube.com/@brat/featured) - 非常实用的口语情景影视频道，用词用句不复杂
 - [Club James Studios](https://www.youtube.com/@ClubJamesStudios/featured) - 频道提供英语语法方面的教程
 - [Brian Wiles](https://www.youtube.com/@BrianWilesQuizzes/featured) - 分享英语学习技巧和各种英语知识
-- [Cool History Bros](https://www.youtube.com/@CoolHistoryBros/featured) - 通过英语动画来诉说中国其他地区的有趣神话、传说和历史故事。
+- [Cool History Bros](https://www.youtube.com/@CoolHistoryBros/featured) - 通过英语动画来诉说中国其他地区的有趣神话、传说和历史故事
 - [EngFluent](https://www.youtube.com/@engfluenttv) - 教你关于听说读写的英语学习方法
 - [Steve Kaufmann](https://www.youtube.com/@thelinguist) - 教你如何学习一门新语言,老爷子已经学会了20种语言
 - [Inglês Essencial](https://www.youtube.com/c/Ingl%C3%AAsEssencial/featured) - 有声英语电子书
+- [Jim Rohn Motivation](https://www.youtube.com/@jimrohnmotivationvideos) - 听着语句不复杂的英语鸡汤入睡😴
 - [Quotes](https://www.youtube.com/@quotes_official) - 英语引言，边学英语边体会人生
 - [通过故事学习英语](https://www.youtube.com/@wooenglish) - 频道提供A1-C2级别的各种英语故事帮你学习英语
 - [English Speaking 360](https://www.youtube.com/@englishspeaking360) - 一名来自加拿大的认证英语教师教你英语语法，词汇，写作等等
 - [口语老炮儿马思瑞](https://www.youtube.com/@LaomaChris) - 主要讲英语学习方法技巧
 - [TED-Ed](https://www.youtube.com/@TEDEd) - 通过动画小短片来学习英语的同时涨各种知识
+- [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb) - 斯坦福商学院官方YouTube频道，分享商业思维、沟通技巧及职场英语，助你高效提升职场英语能力
+- [布鲁斯法则](https://www.youtube.com/@followbruce) - 深入探讨究竟国人怎样学英语才是最好的
 
 ### 学习视频 📺
 
@@ -187,6 +205,7 @@
 - [新概念英语第三册](https://www.youtube.com/watch?v=GKPNUd33ca8&list=PL7QPSCAroBoi8lh1Nis2P8s-Kez06mjue) - 讲师：李延隆老师
 - [新概念英语第四册](https://www.youtube.com/watch?v=SHH5tDljf5M&list=PL7QPSCAroBoguruChBG0rzSnvvn4MHAan) - 讲师：李延隆老师
 - [English Conversation](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56MbILOmdXvGV_3kE9) - 适合初学者的情景对话
+- [经典美音 美中小学教学原版教材精讲](https://b23.tv/idsdRfN) - 通过不复杂的英语教授知识，适用于B1以下水平练习听力
 
 ### 视频网站 📼
 
@@ -349,6 +368,8 @@
 - [英语兔](https://space.bilibili.com/483162496)
 - [赖世雄讲英语](https://space.bilibili.com/1322170180)
 - [JackyangMiao](https://space.bilibili.com/12359115)
+- [考研英语田静](https://b23.tv/3GKoAUT)
+- [张俊杰老师](https://b23.tv/Z5gU8PM)
 
 ### 其他平台 📖
 
@@ -379,6 +400,15 @@
 - [BlueSea](https://github.com/jiangqizheng/BlueSea) - 一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计
 - [Youtube 字幕下载](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Youtube 字幕下载工具
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
+- [ElevenLabs](https://elevenlabs.io/) - 一个AI驱动的语音合成平台，能帮助用户轻松生成自然流畅的语音内容，尤其适合播客、视频配音或语言学习练习。
+
+## 适合应试
+
+适合单纯为了应付考试而学习的英语🧐
+
+- [零基础英语（学渣的自我拯救）](https://b23.tv/UGQisv4) - 小学到中考所有英语考点知识讲解，将你拉回学生时代
+- [英语零基础语法大全精讲](https://b23.tv/VZic7Rs) - 小学到大学所有英语语法知识讲解
+- [英语语法自学](https://b23.tv/0NE8quT) - 英语语法从入门到高级 要恶补英语语法的快来吧
 
 ## 其他资源
 
