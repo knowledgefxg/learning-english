@@ -401,6 +401,7 @@
 - [Youtube 字幕下载](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Youtube 字幕下载工具
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
 - [ElevenLabs](https://elevenlabs.io/) - 一个AI驱动的语音合成平台，能帮助用户轻松生成自然流畅的语音内容，尤其适合播客、视频配音或语言学习练习。
+- [不背句子](https://www.bubeijuzi.com/) - 新概念英语课文默写软件 学一课 默写一课 强化记忆 让语言表达精准
 
 ## 适合应试
 
