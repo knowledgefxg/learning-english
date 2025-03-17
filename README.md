@@ -22,6 +22,7 @@
 - [适合应试](#适合应试)
 - [其他资源](#其他资源)
 - [在线课程](#在线课程)
+- [适合孩子](#适合孩子)
 - [常见问题](#常见问题)
 - [参与贡献](#参与贡献)
 
@@ -46,9 +47,10 @@
 - [learnenglishpod](https://learnenglishpod.com/) - 提供多种有趣的课程和讨论，帮助提升英语水平
 - [Listening Time](https://open.spotify.com/playlist/0KktOlffEGngLS63SHp5v7) - 语速缓慢，适合新手
 - [Culips ESL Podcast](https://esl.culips.com/) - 由专业英语教师制作和主持的，他们的使命是让学习变得更有趣
-- [Business English](https://www.youtube.com/@BusinessEnglishPod) - 教授各种商务英语
+- [Business English](https://www.youtube.com/@BusinessEnglishPod) - 教授各种商务英
 - [Espresso English Podcast](https://open.spotify.com/show/3apZ4F9LH9oI6DIjiQl6zR) - 专门针对ESL学习者经常遇到的常见问题
 - [Speak English With Class](https://www.youtube.com/@speakenglishwithclass) - 精选的一系列免费、播客风格的视频，让学习英语既有趣又有效
+- [Dan Koe](https://www.youtube.com/@dankoetalks) - 播客分享了许多关于个人发展、生产力提升和创业策略的见解，帮助观众实现工作与生活的平衡
 
 ### 科技播客 💻
 
@@ -187,6 +189,8 @@
 - [TED-Ed](https://www.youtube.com/@TEDEd) - 通过动画小短片来学习英语的同时涨各种知识
 - [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb) - 斯坦福商学院官方YouTube频道，分享商业思维、沟通技巧及职场英语，助你高效提升职场英语能力
 - [布鲁斯法则](https://www.youtube.com/@followbruce) - 深入探讨究竟国人怎样学英语才是最好的
+- [英语调音师 Jerry](https://www.youtube.com/@jerryenglishremix) - 提供各种英语学习干货
+- [ABC Education](https://www.youtube.com/@ABCEducation) - 提供有趣且高质量的英语教育内容，可用于家庭学习和课堂教学
 
 ### 学习视频 📺
 
@@ -251,6 +255,7 @@
 - [Longreads](https://longreads.com/) - 一个专注于长篇优质文章的网站，对英语学习有很大帮助
 - [English Short Stories for Beginners](https://www.english-for-students.com/Short-Stories.html) - 提供专门为英语学习者撰写的短文
 - [American Literature](https://americanliterature.com/) - 网站提供了大量的经典文学作品，而且语法用词简单
+- [Webnovel](https://www.webnovel.com/) - 有大量的英文小说可供阅读，还有瑟瑟的英文小说内容
 
 ### 英文漫画 📚
 
@@ -338,6 +343,8 @@
 - [Infinite Craft](https://neal.fun/infinite-craft/) - 一个通过组合不同元素来创造新事物的游戏，在玩法中学习英语词汇和创意表达
 - [Crash Course](https://thecrashcourse.com/) - 一个提供高质量教育视频的网站，涵盖历史、科学、文学等多个学科的知识讲解，通过有趣的动画和清晰的解说来帮助你学习专业英语词汇和表达
 - [EnglishBanana](https://www.englishbanana.com/) - 这个网站提供超过4000页免费的可打印资源，用于教授和学习英语以及英语作为第二语言（ESL）。我们还免费提供英语课程书籍、播客和许多其他免费的资源
+- [engoo](https://engoo.com/app/materials/en) - 网站里面的materials板块提供了很精致的教材课程，适合各个级别英语学习者，你可以按照等级和喜好来搜索相关的学习材料
+- [Shana Project](https://www.shanaproject.com/) - 免费提供英语配音的动漫下载网站
 
 ## 社交媒体
 
@@ -426,6 +433,13 @@
 - [Future Learn](https://www.futurelearn.com/subjects/languages-and-cultures-courses/learn-english)
 - [英国文化协会课程](https://www.futurelearn.com/partners/british-council)
 - [网易云英语课堂](https://study.163.com/category/480000004129001)
+
+## 适合孩子
+
+- [litter fox](https://www.youtube.com/user/LittleFoxKids) - 提供让孩子们快乐学习英语的英文动画片和英文儿歌（也适合18岁以上的大孩子☺️）
+- [Peppa Pig](https://www.youtube.com/@PeppaPigOfficial) - 小猪佩奇官方频道，提供英配佩奇动画片
+- [Super Simple Songs](https://www.youtube.com/@SuperSimpleSongs/videos) - 提供简单易学的英文儿歌和教育视频，帮助孩子们在音乐中学习基础英语
+- [ChuChu TV](https://www.youtube.com/@ChuChuTV) - 该频道提供各种英文儿童歌曲和教育内容
 
 ## 常见问题
 
