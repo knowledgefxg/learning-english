@@ -420,7 +420,7 @@
 
 ## 其他资源
 
-- [nglish-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 一个全面的英语学习指南。该指南基于作者的个人经验和学术成就，分享了有效的英语学习技巧
+- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 一个全面的英语学习指南。该指南基于作者的个人经验和学术成就，分享了有效的英语学习技巧
 - [英语语法笔记](https://hzpt-inet-club.github.io/english-note/) - 从0开始学习英语语法
 - [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2
