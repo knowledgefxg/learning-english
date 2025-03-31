@@ -191,6 +191,9 @@
 - [布鲁斯法则](https://www.youtube.com/@followbruce) - 深入探讨究竟国人怎样学英语才是最好的
 - [英语调音师 Jerry](https://www.youtube.com/@jerryenglishremix) - 提供各种英语学习干货
 - [ABC Education](https://www.youtube.com/@ABCEducation) - 提供有趣且高质量的英语教育内容，可用于家庭学习和课堂教学
+- [Crown Academy of English](https://www.youtube.com/@CrownAcademyEnglish) - 提供纯英免费课程，助力英语思维培养
+- [Learning Phrases with Chris](https://www.youtube.com/@LearningPhrases) - 致力于通过短语教学帮助观众学习英语在内的多种语言
+- [Professor Dave Explains](https://www.youtube.com/@ProfessorDaveExplains) - 以简明易懂的英语教授各类科学和数学概念
 
 ### 学习视频 📺
 
@@ -210,6 +213,9 @@
 - [新概念英语第四册](https://www.youtube.com/watch?v=SHH5tDljf5M&list=PL7QPSCAroBoguruChBG0rzSnvvn4MHAan) - 讲师：李延隆老师
 - [English Conversation](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56MbILOmdXvGV_3kE9) - 适合初学者的情景对话
 - [经典美音 美中小学教学原版教材精讲](https://b23.tv/idsdRfN) - 通过不复杂的英语教授知识，适用于B1以下水平练习听力
+- [英语电话号码听力练习](https://www.youtube.com/watch?v=RUX9YlEbenI) - 英语电话号码听力训练
+- [如何用英语读出所有数字](https://www.youtube.com/watch?v=VYeBYn970a8) - 用英语练习大数字、小数、日期、分数、电话、序数的能力
+- [1-10000数字训练](https://www.youtube.com/watch?v=od_1wzUk1cU) - 总时长12h，适合助眠😴
 
 ### 视频网站 📼
 
@@ -237,6 +243,7 @@
 - [English Current](https://www.englishcurrent.com/) - 带词汇解释的新闻文章
 - [Easy English News](https://www.easyenglishnews.com/) - 简单英语新闻，附音频和习题
 - [Buzzing](https://www.buzzing.cc/) - 全球热门新闻双语速览
+- [The Conversation](https://theconversation.com/us) - 提供各类实用英语文章，含科学，政治，经济等等
 
 ### 英文小说/书籍 📚
 
