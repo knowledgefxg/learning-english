@@ -460,4 +460,8 @@
 欢迎贡献！如果你有好的资源，欢迎分享👏
 如果这个项目对你有帮助，请不要忘记给他一个star哦⭐️
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=knowledgefxg/learning-english&type=Date)](https://www.star-history.com/#knowledgefxg/learning-english&Date)
+
 
