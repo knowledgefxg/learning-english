@@ -37,6 +37,7 @@
 - [All Ears English](https://www.allearsenglish.com/) - 地道美式英语会话学习
 - [Speak English With Tiffani](https://www.youtube.com/@SpeakEnglishWithTiffani) - 播客内容围绕英语学习方法以及各种英语小技巧
 - [ESL Pod](https://www.eslpod.com/) - 清晰慢速的英语对话
+- [LEP](https://www.youtube.com/@LEP-LearnEnglishPodcast) - 整体英文内容专为 A2+ 和 B1 水平的学习者设计，每期一个10来分钟的小话题
 - [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 语速适中，很适合初学者
 - [Coffee Break English](https://coffeebreaklanguages.com/english/) - 每集大约15分钟，为初学者和中级英语学习者设计
 - [Luke's English Podcast](https://teacherluke.co.uk/) - 由专业英语教师主讲
@@ -148,6 +149,7 @@
 - [TED](https://www.youtube.com/@TED) - 不解释，养活无数英语学习博主的频道
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
 - [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
+- [English At The Ready](https://www.youtube.com/@englishattheready) - 帅比Michael老师带你学习各种英语知识
 - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
 - [EngFluent](https://www.youtube.com/@engfluenttv) - 专注于帮助非英语母语者快速提升口语表达，让你告别死记硬背，实现英语流利表达
 - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - 通过美剧学英语
@@ -194,6 +196,8 @@
 - [Crown Academy of English](https://www.youtube.com/@CrownAcademyEnglish) - 提供纯英免费课程，助力英语思维培养
 - [Learning Phrases with Chris](https://www.youtube.com/@LearningPhrases) - 致力于通过短语教学帮助观众学习英语在内的多种语言
 - [Professor Dave Explains](https://www.youtube.com/@ProfessorDaveExplains) - 以简明易懂的英语教授各类科学和数学概念
+- [Feel Real Good](https://www.youtube.com/@feelrealgood) - 英语讲述生活思维与心智模型
+- [Leonardo English](https://www.youtube.com/@leonardoenglishcom) - 让你在学习英语的同时，了解世界上各种奇闻趣事的频道
 
 ### 学习视频 📺
 
@@ -352,6 +356,9 @@
 - [EnglishBanana](https://www.englishbanana.com/) - 这个网站提供超过4000页免费的可打印资源，用于教授和学习英语以及英语作为第二语言（ESL）。我们还免费提供英语课程书籍、播客和许多其他免费的资源
 - [engoo](https://engoo.com/app/materials/en) - 网站里面的materials板块提供了很精致的教材课程，适合各个级别英语学习者，你可以按照等级和喜好来搜索相关的学习材料
 - [Shana Project](https://www.shanaproject.com/) - 免费提供英语配音的动漫下载网站
+- [English Reader](https://read.english-reader.com/) - 英语阅读网站，一键查词、朗读、翻译、生词管理
+- [TV garden](https://tv.garden/) - 这个网站可收看全世界各国的电视台
+- [Froniters for young minds](https://kids.frontiersin.org/) - 里面有大量科普文章和全彩色精美英文电子书PDF版免费下载，英文难度都是B1-B2
 
 ## 社交媒体
 
@@ -416,6 +423,9 @@
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
 - [ElevenLabs](https://elevenlabs.io/) - 一个AI驱动的语音合成平台，能帮助用户轻松生成自然流畅的语音内容，尤其适合播客、视频配音或语言学习练习。
 - [不背句子](https://www.bubeijuzi.com/) - 新概念英语课文默写软件 学一课 默写一课 强化记忆 让语言表达精准
+- [多多记单词](https://ddjdc.com/) - 艾宾浩斯抗遗忘在线背词工具
+- [LLPlayer](https://github.com/umlx5h/LLPlayer) - 开源的语言学习播放器，支持双语字幕、AI 生成字幕、实时翻译等功能
+- [Backyard AI](https://backyard.ai/) - AI角色扮演应用，支持语音和文字，可以涩涩
 
 ## 适合应试
 
