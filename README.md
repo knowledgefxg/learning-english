@@ -150,6 +150,8 @@
 - [TED](https://www.youtube.com/@TED) - 不解释，养活无数英语学习博主的频道
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
 - [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
+- [Simple English Text](https://www.youtube.com/@simpleenglishtext) - 频道内容大致就是做一些将英语难度降至脚踝之下的播客视频，基本都是A1-A2级别的慢速英语
+- [Volka](https://www.youtube.com/@volkaenglish) - 频道致力于让英语学习变得有趣，通过可理解输入假说为教学模式，涵盖英语口语、词汇、语法或文化相关的教学视频，风格轻松活泼
 - [English At The Ready](https://www.youtube.com/@englishattheready) - 帅比Michael老师带你学习各种英语知识
 - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
 - [EngFluent](https://www.youtube.com/@engfluenttv) - 专注于帮助非英语母语者快速提升口语表达，让你告别死记硬背，实现英语流利表达
@@ -201,6 +203,7 @@
 - [Leonardo English](https://www.youtube.com/@leonardoenglishcom) - 让你在学习英语的同时，了解世界上各种奇闻趣事的频道
 - [LITTLE BIT BETTER](https://www.youtube.com/@littlebitbetter7) - 讲述各种商业思维，生活思维，语速较快，适合C1级别以上学习者
 - [English Speaking Success](https://www.youtube.com/@englishspeakingsuccess) - 频道博主为英式发音，整体内容围绕英语学习方法，英语知识，雅思口语技巧为主
+- [The English Class](https://www.youtube.com/@TheEnglishClass2917) - 频道通过一些火柴人动画，教你各种英语学习的技巧方法以及一些我们学习英语过程中遇到的各种问题
 
 ### 学习视频 📺
 
@@ -364,6 +367,7 @@
 - [TV garden](https://tv.garden/) - 这个网站可收看全世界各国的电视台
 - [Froniters for young minds](https://kids.frontiersin.org/) - 里面有大量科普文章和全彩色精美英文电子书PDF版免费下载，英文难度都是B1-B2
 - [AI学习新概念英语](https://learnenai.com/) - 一个学习新概念英语的网站。词汇分析、语法句型解析、中英对照
+- [Progressive Phonics](https://www.progressivephonics.com/) - 一个完全免费的在线英语阅读教学项目，专为帮助孩子学习阅读和拼写而设计
 
 ## 社交媒体
 
@@ -396,6 +400,16 @@
 - [JackyangMiao](https://space.bilibili.com/12359115)
 - [考研英语田静](https://b23.tv/3GKoAUT)
 - [张俊杰老师](https://b23.tv/Z5gU8PM)
+
+### Telegram
+
+- [British English for all](https://t.me/BritishEnglishforall) - 每天分享各种英语小知识，测验，技巧
+- [English Grammar IELTS TOEFL](https://t.me/English_Grammar_IELTS_TOEFL) - 各种格式的语法练习和测试集合。适合准备国际考试的人
+- [Podcast English listening](https://t.me/Podcast_English_listening) - 提供主题播客文件集合，用于训练听力技能
+- [Improve Your English](https://t.me/Ingliztiliuzz) - 专注于中级英语水平。提供各种习语，阅读材料和其他提高技能的资源
+- [English Books Novels magazines](https://t.me/English_Books_Novels_magazines) - 在这里你可以下载实用的英文杂志和英语文学材料
+- [English of the Day](https://telegram.me/EnglishDaybyDay) - 通过各种英语短视频提升你的英语水平
+- [English chatting club Global](https://t.me/English_chatting_club_Global) - 一个与来自不同国家和不同语言水平的人用英语交流的电报群组
 
 ### 其他平台 📖
 
