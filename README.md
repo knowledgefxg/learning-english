@@ -204,6 +204,8 @@
 - [LITTLE BIT BETTER](https://www.youtube.com/@littlebitbetter7) - 讲述各种商业思维，生活思维，语速较快，适合C1级别以上学习者
 - [English Speaking Success](https://www.youtube.com/@englishspeakingsuccess) - 频道博主为英式发音，整体内容围绕英语学习方法，英语知识，雅思口语技巧为主
 - [The English Class](https://www.youtube.com/@TheEnglishClass2917) - 频道通过一些火柴人动画，教你各种英语学习的技巧方法以及一些我们学习英语过程中遇到的各种问题
+- [WISE JOE](https://www.youtube.com/@WISE-JOE1) - 通过火柴人动画将富有思想的原创内容来激励、提升和赋能人们
+- [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - 频道每周都会制作新课程，帮你走出教室，自然自信地说英语
 
 ### 学习视频 📺
 
@@ -476,6 +478,7 @@
 - [Peppa Pig](https://www.youtube.com/@PeppaPigOfficial) - 小猪佩奇官方频道，提供英配佩奇动画片
 - [Super Simple Songs](https://www.youtube.com/@SuperSimpleSongs/videos) - 提供简单易学的英文儿歌和教育视频，帮助孩子们在音乐中学习基础英语
 - [ChuChu TV](https://www.youtube.com/@ChuChuTV) - 该频道提供各种英文儿童歌曲和教育内容
+- [freekidsbooks](https://freekidsbooks.org/) - 无套路无广告，主要提供免费儿童英文书籍的网站
 
 ## 常见问题
 
