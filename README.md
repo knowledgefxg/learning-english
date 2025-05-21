@@ -275,6 +275,7 @@
 - [English Short Stories for Beginners](https://www.english-for-students.com/Short-Stories.html) - 提供专门为英语学习者撰写的短文
 - [American Literature](https://americanliterature.com/) - 网站提供了大量的经典文学作品，而且语法用词简单
 - [Webnovel](https://www.webnovel.com/) - 有大量的英文小说可供阅读，还有瑟瑟的英文小说内容
+- [MagazineLib](https://magazinelib.com/) - 免费下载杂志PDF网站
 
 ### 英文漫画 📚
 
@@ -479,6 +480,7 @@
 - [Super Simple Songs](https://www.youtube.com/@SuperSimpleSongs/videos) - 提供简单易学的英文儿歌和教育视频，帮助孩子们在音乐中学习基础英语
 - [ChuChu TV](https://www.youtube.com/@ChuChuTV) - 该频道提供各种英文儿童歌曲和教育内容
 - [freekidsbooks](https://freekidsbooks.org/) - 无套路无广告，主要提供免费儿童英文书籍的网站
+- [T-Series Kids Hut](https://www.youtube.com/@kidshut) - 提供各种英文儿歌和故事节目
 
 ## 常见问题
 
