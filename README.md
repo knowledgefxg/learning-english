@@ -256,6 +256,7 @@
 - [Easy English News](https://www.easyenglishnews.com/) - 简单英语新闻，附音频和习题
 - [Buzzing](https://www.buzzing.cc/) - 全球热门新闻双语速览
 - [The Conversation](https://theconversation.com/us) - 提供各类实用英语文章，含科学，政治，经济等等
+- [English News in Levels](https://englishnewsinlevels.com/) - 为英语学习者提供分级世界新闻
 
 ### 英文小说/书籍 📚
 
