@@ -40,6 +40,7 @@
 - [LEP](https://www.youtube.com/@LEP-LearnEnglishPodcast) - 整体英文内容专为 A2+ 和 B1 水平的学习者设计，每期一个10来分钟的小话题
 - [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 语速适中，很适合初学者
 - [Coffee Break English](https://coffeebreaklanguages.com/english/) - 每集大约15分钟，为初学者和中级英语学习者设计
+- [Simple English](https://www.youtube.com/@simpleenglishforbeginners) - 聚焦于分享轻松又高效的英语学习技巧与方法，通过B1级别左右的听力内容帮助磨耳朵
 - [Luke's English Podcast](https://teacherluke.co.uk/) - 由专业英语教师主讲
 - [VOA Learning English](https://learningenglish.voanews.com/podcasts) - 美国之音（VOA）为有兴趣学习美式英语的人提供了大量播客选择
 - [6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) - 简短高效的英语课程
@@ -305,6 +306,7 @@
 - [Visual Thesaurus Spelling Bee](https://www.visualthesaurus.com/bee/play) - 听一个单词并尝试正确拼写
 - [Word Whomp](https://www.pogo.com/) - 各种免费的在线游戏,快速思考并创造尽可能多的单词
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - 一款大型多人词语联想游戏，它既简单又复杂
+- [itch](https://itch.io/) - 大量英语游戏游玩下载平台，不仅可以下载还有很多可以浏览器玩耍
 
 ### 单机游戏 🎮
 
@@ -372,6 +374,8 @@
 - [Froniters for young minds](https://kids.frontiersin.org/) - 里面有大量科普文章和全彩色精美英文电子书PDF版免费下载，英文难度都是B1-B2
 - [AI学习新概念英语](https://learnenai.com/) - 一个学习新概念英语的网站。词汇分析、语法句型解析、中英对照
 - [Progressive Phonics](https://www.progressivephonics.com/) - 一个完全免费的在线英语阅读教学项目，专为帮助孩子学习阅读和拼写而设计
+- [Chinese Culturepedia](https://culturepedia.chinadaily.com.cn/) - 一个边学英语边了解中国文化的网站
+- [LetMeEnglish](https://letmeenglish.com/) - 一个致力于提供优质免费内容和练习资源的英文学习网站
 
 ## 社交媒体
 
