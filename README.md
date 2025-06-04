@@ -376,6 +376,7 @@
 - [Progressive Phonics](https://www.progressivephonics.com/) - 一个完全免费的在线英语阅读教学项目，专为帮助孩子学习阅读和拼写而设计
 - [Chinese Culturepedia](https://culturepedia.chinadaily.com.cn/) - 一个边学英语边了解中国文化的网站
 - [LetMeEnglish](https://letmeenglish.com/) - 一个致力于提供优质免费内容和练习资源的英文学习网站
+- [VoiceTube](https://www.voicetube.com/) - 一个通过大量视频资源学习英语的网站，支持双语字幕，单句循环，单词查询等功能
 
 ## 社交媒体
 
