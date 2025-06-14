@@ -155,6 +155,7 @@
 - [Volka](https://www.youtube.com/@volkaenglish) - 频道致力于让英语学习变得有趣，通过可理解输入假说为教学模式，涵盖英语口语、词汇、语法或文化相关的教学视频，风格轻松活泼
 - [English At The Ready](https://www.youtube.com/@englishattheready) - 帅比Michael老师带你学习各种英语知识
 - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
+- [Julian Northbrook](https://www.youtube.com/@juliannorthbrook) - 用英式发音教你如何说好英语
 - [EngFluent](https://www.youtube.com/@engfluenttv) - 专注于帮助非英语母语者快速提升口语表达，让你告别死记硬背，实现英语流利表达
 - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - 通过美剧学英语
 - [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - 澳大利亚英语,实用口语表达
@@ -278,6 +279,7 @@
 - [American Literature](https://americanliterature.com/) - 网站提供了大量的经典文学作品，而且语法用词简单
 - [Webnovel](https://www.webnovel.com/) - 有大量的英文小说可供阅读，还有瑟瑟的英文小说内容
 - [MagazineLib](https://magazinelib.com/) - 免费下载杂志PDF网站
+- [MonkeyPen](https://monkeypen.com/) - 提供免费英语绘本下载的网站
 
 ### 英文漫画 📚
 
@@ -454,6 +456,7 @@
 - [多多记单词](https://ddjdc.com/) - 艾宾浩斯抗遗忘在线背词工具
 - [LLPlayer](https://github.com/umlx5h/LLPlayer) - 开源的语言学习播放器，支持双语字幕、AI 生成字幕、实时翻译等功能
 - [Backyard AI](https://backyard.ai/) - AI角色扮演应用，支持语音和文字，可以涩涩
+- [单词森林](https://wordforest.cn/) - 一个简洁实用的英语单词学习工具
 
 ## 适合应试
 
