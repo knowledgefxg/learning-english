@@ -152,6 +152,7 @@
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
 - [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
 - [Simple English Text](https://www.youtube.com/@simpleenglishtext) - 频道内容大致就是做一些将英语难度降至脚踝之下的播客视频，基本都是A1-A2级别的慢速英语
+- [Pensando Inglés](https://www.youtube.com/@pensandoingles6884) - 通过可理解输入方式来帮助你提高英语水平，难度水平控制在A1-B1
 - [Volka](https://www.youtube.com/@volkaenglish) - 频道致力于让英语学习变得有趣，通过可理解输入假说为教学模式，涵盖英语口语、词汇、语法或文化相关的教学视频，风格轻松活泼
 - [English At The Ready](https://www.youtube.com/@englishattheready) - 帅比Michael老师带你学习各种英语知识
 - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101) - 提供各种英语系统化课程
@@ -330,6 +331,7 @@
 - [足球经理系列](https://store.steampowered.com/app/2252570/Football_Manager_2024/) - 通过管理足球俱乐部来学习体育、管理、谈判和媒体相关的英语专业用语
 - [维多利亚3](https://store.steampowered.com/app/529340/Victoria_3/) - 通过管理19世纪国家的方式学习历史、政治、经济、外交等领域的专业英语词汇和表达
 - [金融帝国实验室](https://www.capitalismlab.com/educational-uses-cn/) - 通过经营金融公司模拟来掌握金融、投资、商业管理等领域的英语专业术语和表达方式
+- [接线疑云](https://store.steampowered.com/app/1771980/_The_Operator/) - 通过各种互动解谜帮助你提升英语
   
   有英文配音的galgame：这些游戏特别适合想通过故事学英语的人，喜欢互动叙事的玩家⬇️
 
@@ -457,6 +459,7 @@
 - [LLPlayer](https://github.com/umlx5h/LLPlayer) - 开源的语言学习播放器，支持双语字幕、AI 生成字幕、实时翻译等功能
 - [Backyard AI](https://backyard.ai/) - AI角色扮演应用，支持语音和文字，可以涩涩
 - [单词森林](https://wordforest.cn/) - 一个简洁实用的英语单词学习工具
+- [Typing Word](https://github.com/zyronon/typing-word) - 通过敲键盘形式给出的正反馈来背诵单词
 
 ## 适合应试
 
