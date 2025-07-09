@@ -460,7 +460,7 @@
 - [Backyard AI](https://backyard.ai/) - AI角色扮演应用，支持语音和文字，可以涩涩
 - [单词森林](https://wordforest.cn/) - 一个简洁实用的英语单词学习工具
 - [Typing Word](https://github.com/zyronon/typing-word) - 通过敲键盘形式给出的正反馈来背诵单词
-
+- [SayWow](https://saywow.ai/) - 有趣、好玩，模拟人生学英语，像母语者一样开口说
 ## 适合应试
 
 适合单纯为了应付考试而学习的英语🧐
