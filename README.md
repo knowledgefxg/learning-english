@@ -122,6 +122,7 @@
 - [WhispersRed ASMR](https://www.youtube.com/user/WhispersRedASMR) - 英国英语角色扮演，语音清晰
 - [ASMR Teacher](https://www.youtube.com/watch?v=zQsV8VoOkrE) - 放松的词汇课，语音缓慢
 - [Teacher Tutors You on English](https://www.youtube.com/watch?v=y4kNe7sRYJs) - 模拟辅导场景
+- [AudioLove](https://audio.love/) - 一个成人音频平台，专门提供涩涩内容。包括情景短剧、幻想录音或角色扮演音声
 
 
 ## 口语练习 
@@ -243,6 +244,7 @@
 - [Bitcine](https://www.bitcine.app/) - 免费英文电影/电视剧/动漫/TV show
 - [Freek](https://freek.to/) - 免费英文电影/电视剧/动漫/TV show（有广告）
 - [Nunflix](https://nunflix.org/) - 免费英文电影/电视剧/动漫/TV show（有广告）
+- [Plex](https://watch.plex.tv/) - 可以免费观看大量英文电影和电视节目流媒体平台
 - [Youtube影视专区](https://www.youtube.com/feed/storefront) - Youtube本身就有大量可以免费观看的影视哦
 - [点 点 字 幕 搜 索](https://www.samfunny.com/) - 一个专为美剧和英剧爱好者提供字幕资源的网站
 - [iHaveNoTV](https://ihavenotv.com/) - 一个免费的在线纪录片网站，收录了大量高质量英文纪录片，让你能通过观看BBC、PBS等优质纪录片来提升英语听力和专业词汇
@@ -281,6 +283,8 @@
 - [Webnovel](https://www.webnovel.com/) - 有大量的英文小说可供阅读，还有瑟瑟的英文小说内容
 - [MagazineLib](https://magazinelib.com/) - 免费下载杂志PDF网站
 - [MonkeyPen](https://monkeypen.com/) - 提供免费英语绘本下载的网站
+- [Lush Stories](https://www.lushstories.com/) - 一个英文成人涩涩文学社区，来自世界各地的作者上传各种情节的涩涩文学作品一同品阅
+- [Literpitica](https://www.literotica.com/) - 完全免费的英语涩涩文学与社区平台，涵盖小说、互动游戏、音频等等
 
 ### 英文漫画 📚
 
@@ -381,6 +385,7 @@
 - [Chinese Culturepedia](https://culturepedia.chinadaily.com.cn/) - 一个边学英语边了解中国文化的网站
 - [LetMeEnglish](https://letmeenglish.com/) - 一个致力于提供优质免费内容和练习资源的英文学习网站
 - [VoiceTube](https://www.voicetube.com/) - 一个通过大量视频资源学习英语的网站，支持双语字幕，单句循环，单词查询等功能
+- [Triviaduel](https://www.triviaduel.com/) - 一款简洁轻快、免注册、无广告的网页版实时全英文知识问答游戏
 
 ## 社交媒体
 
