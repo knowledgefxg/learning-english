@@ -39,6 +39,7 @@
 - [ESL Pod](https://www.eslpod.com/) - 清晰慢速的英语对话
 - [LEP](https://www.youtube.com/@LEP-LearnEnglishPodcast) - 整体英文内容专为 A2+ 和 B1 水平的学习者设计，每期一个10来分钟的小话题
 - [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 语速适中，很适合初学者
+- [Easy English Podcast](https://open.spotify.com/show/0zdSWbiJYKbWfhHrizj5wA?si=XXY_K48AR2WzkA33XTE93Q) - 一个循序渐进、内容轻松、资源丰富的英语学习播客
 - [Coffee Break English](https://coffeebreaklanguages.com/english/) - 每集大约15分钟，为初学者和中级英语学习者设计
 - [Simple English](https://www.youtube.com/@simpleenglishforbeginners) - 聚焦于分享轻松又高效的英语学习技巧与方法，通过B1级别左右的听力内容帮助磨耳朵
 - [Luke's English Podcast](https://teacherluke.co.uk/) - 由专业英语教师主讲
@@ -386,6 +387,7 @@
 - [LetMeEnglish](https://letmeenglish.com/) - 一个致力于提供优质免费内容和练习资源的英文学习网站
 - [VoiceTube](https://www.voicetube.com/) - 一个通过大量视频资源学习英语的网站，支持双语字幕，单句循环，单词查询等功能
 - [Triviaduel](https://www.triviaduel.com/) - 一款简洁轻快、免注册、无广告的网页版实时全英文知识问答游戏
+- [character ai](https://character.ai/) - 一个基于大型语言模型（LLM）的对话平台,模拟真实对话场景
 
 ## 社交媒体
 
@@ -418,6 +420,7 @@
 - [JackyangMiao](https://space.bilibili.com/12359115)
 - [考研英语田静](https://b23.tv/3GKoAUT)
 - [张俊杰老师](https://b23.tv/Z5gU8PM)
+- [英语的平行世界](https://space.bilibili.com/388576777)
 
 ### Telegram
 
