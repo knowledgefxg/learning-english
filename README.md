@@ -211,6 +211,8 @@
 - [The English Class](https://www.youtube.com/@TheEnglishClass2917) - 频道通过一些火柴人动画，教你各种英语学习的技巧方法以及一些我们学习英语过程中遇到的各种问题
 - [WISE JOE](https://www.youtube.com/@WISE-JOE1) - 通过火柴人动画将富有思想的原创内容来激励、提升和赋能人们
 - [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - 频道每周都会制作新课程，帮你走出教室，自然自信地说英语
+- [English TV](https://www.youtube.com/@englishtvhd) - 为全球英语学习者提供免费的综合性英语教育资源
+- [Learn English with Rebecca](https://www.youtube.com/@engvidrebecca) - 提供从基础到高级、涵盖语法、词汇、发音、商务英语和考试准备等全面且免费的英语学习资源
 
 ### 学习视频 📺
 
