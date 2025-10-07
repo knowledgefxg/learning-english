@@ -150,7 +150,9 @@
 
 - [English with Lucy](https://www.youtube.com/c/EnglishwithLucy) - 美女教师人气英语教学
 - [Rachel's English](https://www.youtube.com/user/rachelsenglish) - 专注发音教学
+- [Slow English With Brian](https://www.youtube.com/@slowenglishwithbrian) - 采用慢速、清晰的英语教学方式，专注于TOEIC口语考试备考的YouTube频道
 - [TED](https://www.youtube.com/@TED) - 不解释，养活无数英语学习博主的频道
+- [English by Jay](https://www.youtube.com/@englishbyjay.official) - 采用可理解输入教学法，通过高质量的生活Vlog形式让学习者在真实场景中自然习得英语
 - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish) - BBC官方教学
 - [星荣英语笔记](https://www.youtube.com/@xingrong-english/featured) - 最适合国人，最容易坚持，最简单易学，且最快获得进步的零基础英语学习课程
 - [Simple English Text](https://www.youtube.com/@simpleenglishtext) - 频道内容大致就是做一些将英语难度降至脚踝之下的播客视频，基本都是A1-A2级别的慢速英语
