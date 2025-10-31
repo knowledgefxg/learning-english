@@ -450,6 +450,7 @@
 - [PlayPhrase](https://www.playphrase.me/) - 让你通过搜索电影片段来学习英语短语的实际使用场景，是个把电影变成英语学习工具的网站
 - [巴别英语](https://www.babelabc.com/) - 通过精选影视片段来学习地道英语口语和表达的学习软件，每个片段都配有详细讲解
 - [Grammarly](https://www.grammarly.com/) - 强大的英语写作辅助工具，能够帮助用户检测和纠正语法、拼写、标点、句子结构等方面的错误
+- [Fix My Message](https://fixmymessage.com/) - 免费的AI语法检查工具，即时修正语法、拼写和标点错误，最适合短文本检查
 - [Vocabulary.com](https://www.vocabulary.com/) - 一个在线词汇学习平台，提供词汇测试、定义、例句和学习工具，帮助用户扩展词汇量并提高词汇记忆
 - [Enpuz](https://enpuz.com/) - 一款英语学习 AI 小工具，主要是在线英语句子语法分析
 - [VoiceTube](https://www.voicetube.com/) - 看视频学英语，支持双语字幕和难度分级
