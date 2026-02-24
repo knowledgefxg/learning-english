@@ -401,6 +401,7 @@
 - [新概念英语》全四册在线课文朗读](https://nce.ichochy.com/) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照
 - [LanguageGuide](https://www.languageguide.org/cn/) - 通过交互式语音指南探索外语词汇
 - [ESL Bits](https://esl-bits.eu/home.html) - 提供丰富的英语有声书全集
+- [FineDictionary](https://www.finedictionary.com/) - 一个小众充满文艺范的英语词典网站
 
 ## 社交媒体
 
