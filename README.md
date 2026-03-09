@@ -499,6 +499,7 @@
 - [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2
 - [使用人工智能学习任何语言](https://www.freecodecamp.org/news/learn-any-language-with-ai/) - 教你如何利用 ChatGPT 和 DeepSeek 高效学习任何语言
+- [英语开发者认证](https://www.freecodecamp.org/learn/a2-english-for-developers/) - freeCodeCamp 推出了全新的英语开发者认证系列课
 
 ## 在线课程
 
