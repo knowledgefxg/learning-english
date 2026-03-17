@@ -402,6 +402,7 @@
 - [LanguageGuide](https://www.languageguide.org/cn/) - 通过交互式语音指南探索外语词汇
 - [ESL Bits](https://esl-bits.eu/home.html) - 提供丰富的英语有声书全集
 - [FineDictionary](https://www.finedictionary.com/) - 一个小众充满文艺范的英语词典网站
+- [World's Radio](https://www.worldsradio.com/) - 收录了全球多个外语电台
 
 ## 社交媒体
 
