@@ -8,6 +8,7 @@
 - 寻找教学资源的教育工作者
 - 因工作、学习或旅行需要提高英语水平的专业人士
 - 项目持续更新，有合适的好资源会持续收录！
+- 项目官方网站：(https://en.knowledgefxg.com/)
 
 ## 目录 📚
 
@@ -485,6 +486,9 @@
 - [单词森林](https://wordforest.cn/) - 一个简洁实用的英语单词学习工具
 - [Typing Word](https://github.com/zyronon/typing-word) - 通过敲键盘形式给出的正反馈来背诵单词
 - [SayWow](https://saywow.ai/) - 有趣、好玩，模拟人生学英语，像母语者一样开口说
+- [NCE Flow](https://github.com/luzhenhua/NCE-Flow) - 很实用的新概念英语在线点读工具
+- [WordPecker App](https://github.com/baturyilmaz/wordpecker-app) - Duolingo风格的交互式英语学习工具
+- [MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档中的真实语境学习英语单词的应用
 ## 适合应试
 
 适合单纯为了应付考试而学习的英语🧐
