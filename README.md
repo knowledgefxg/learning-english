@@ -480,6 +480,7 @@
 - [多邻国](https://www.duolingo.com/) - 热门学习应用
 - [ElevenLabs](https://elevenlabs.io/) - 一个AI驱动的语音合成平台，能帮助用户轻松生成自然流畅的语音内容，尤其适合播客、视频配音或语言学习练习。
 - [不背句子](https://www.bubeijuzi.com/) - 新概念英语课文默写软件 学一课 默写一课 强化记忆 让语言表达精准
+- [Numblr](https://numblr.io) - 专门练英语数字听力的免费网页应用，通过听日期、时间、电话号码、金额等真实场景中的数字并打出来，帮助备考雅思/托福/PTE的学习者提升数字听写能力
 - [多多记单词](https://ddjdc.com/) - 艾宾浩斯抗遗忘在线背词工具
 - [LLPlayer](https://github.com/umlx5h/LLPlayer) - 开源的语言学习播放器，支持双语字幕、AI 生成字幕、实时翻译等功能
 - [Backyard AI](https://backyard.ai/) - AI角色扮演应用，支持语音和文字，可以涩涩
