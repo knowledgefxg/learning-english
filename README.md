@@ -141,6 +141,7 @@
 - [HelloTalk](https://www.hellotalk.com/) - 寻找语言伙伴
 - [Speechling](https://speechling.com/) - 获取发音反馈
 - [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
+- [Elispeak](https://app.elispeak.com/?freemium=true) - AI英语口语陪练，可就日常、工作、旅行及雅思/托福话题进行真实语音对话，每天15分钟免费练习
 - [发音技巧舌位图解](https://www.bilibili.com/video/BV1Ji4y1P7Lu) - 有具体舌位图，对发音很有帮助
 
 ## 视频学习
