@@ -297,6 +297,8 @@
 - [MonkeyPen](https://monkeypen.com/) - 提供免费英语绘本下载的网站
 - [Lush Stories](https://www.lushstories.com/) - 一个英文成人涩涩文学社区，来自世界各地的作者上传各种情节的涩涩文学作品一同品阅
 - [Literpitica](https://www.literotica.com/) - 完全免费的英语涩涩文学与社区平台，涵盖小说、互动游戏、音频等等
+- [英语小说网](https://yingyuxiaoshuo.com/) - 专门为想通过读小说来学英语的人打造
+- [ReadWorks](https://www.readworks.org/) - 海量的分级阅读文章
 
 ### 英文漫画 📚
 
