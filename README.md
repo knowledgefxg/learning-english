@@ -222,6 +222,8 @@
 - [AudioBook Spot](https://www.youtube.com/@AudioBookSpot1) - 专门分享励志和个人成长类的英文有声书内容
 - [British Council | English](https://www.youtube.com/@britishcouncilenglish) - 提供短小精悍的英语微课和20多分钟深度节目
 - [Daily English Conversation](https://www.youtube.com/@DailyEnglishConversation) - 各种日常英语对话的磨耳朵训练陪睡
+- [The Angry Explainer](https://www.youtube.com/@theangryexplainer) - 毒舌风格教学习方法
+- [Techquickie](https://www.youtube.com/@techquickie) - 学习英语的同时涨点科技小知识
 
 ### 学习视频 📺
 
