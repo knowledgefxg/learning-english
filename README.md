@@ -227,6 +227,7 @@
 - [Daily English Conversation](https://www.youtube.com/@DailyEnglishConversation) - 各种日常英语对话的磨耳朵训练陪睡
 - [The Angry Explainer](https://www.youtube.com/@theangryexplainer) - 毒舌风格教学习方法
 - [Techquickie](https://www.youtube.com/@techquickie) - 学习英语的同时涨点科技小知识
+- [Explainify why](https://www.youtube.com/@explainify67) - 英语讲解科技、人工智能和 IT 相关的主题
 
 ### 学习视频 📺
 
@@ -304,6 +305,7 @@
 - [Literpitica](https://www.literotica.com/) - 完全免费的英语涩涩文学与社区平台，涵盖小说、互动游戏、音频等等
 - [英语小说网](https://yingyuxiaoshuo.com/) - 专门为想通过读小说来学英语的人打造
 - [ReadWorks](https://www.readworks.org/) - 海量的分级阅读文章
+- [LibriVox](https://librivox.org/) - 一个免费提供各种有声书下载的网站
 
 ### 英文漫画 📚
 
