@@ -227,6 +227,7 @@ Recommended English learning channels.
 - [Daily English Conversation](https://www.youtube.com/@DailyEnglishConversation) - Daily conversation listening practice
 - [The Angry Explainer](https://www.youtube.com/@theangryexplainer) - Edgy style learning method tips
 - [Techquickie](https://www.youtube.com/@techquickie) - Learn English while picking up tech knowledge
+- [Explainify why](https://www.youtube.com/@explainify67) - Explains technology, artificial intelligence, and IT-related topics in English
 
 ### Learning Videos 📺
 
@@ -304,6 +305,7 @@ Learn English through entertainment.
 - [Literotica](https://www.literotica.com/) - Free adult fiction and community
 - [Yingyuxiaoshuo (英语小说网)](https://yingyuxiaoshuo.com/) - English novels for language learners
 - [ReadWorks](https://www.readworks.org/) - Extensive graded reading articles
+- [LibriVox](https://librivox.org/) - A website that offers free audiobook downloads
 
 ### English Comics 📚
 
