@@ -483,6 +483,7 @@
 - [Find a Book](https://hub.lexile.com/find-a-book/) - 找书的网站，可以根据自己的水平找到感兴趣的书籍
 - [Readu](https://readu.io/readupedia/) - 提供多种适合不同年龄段的书籍、故事和学习材料
 - [Language Reactor ](https://www.languagereactor.com/) - 一个让你在看视频时自动获得语言学习辅助的插件工具，把娱乐变成高效学习
+- [Linglass](https://linglass.app/) - 一款浏览器插件，看 YouTube、Netflix 时同时显示英文和中文两行字幕，点任意单词就能看到结合上下文的释义、音标和发音，生词可以存成卡片按记忆曲线复习，还能对整句做 AI 语法分析
 - [OnlineCorrection](https://www.onlinecorrection.com/) - 英语语法检查在线工具
 - [GetYarn](https://getyarn.io/) - 类似 PlayPhrase 的网站，让你能搜索电影和电视剧中的台词片段，查看其使用场景，并通过原声视频加深记忆的学习工具
 - [Youtube双语字幕](https://chromewebstore.google.com/detail/youtube%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95-youtube%E5%AD%97%E5%B9%95%E5%A2%9E%E5%BC%BA-c/imeedihedcjeieaokdpgandbgpjmadoh) - 一个浏览器插件，提供Youtube双语字幕与Youtube字幕增强、ChatGPT 翻译、单词收藏等英语学习功能
