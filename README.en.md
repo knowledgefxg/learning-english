@@ -554,4 +554,4 @@ If this project helped you, please give it a star ⭐️
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=knowledgefxg/learning-english&type=Date)](https://www.star-history.com/#knowledgefxg/learning-english&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=knowledgefxg/learning-english&type=Date)](https://star-history.dera.page/#knowledgefxg/learning-english&Date)
