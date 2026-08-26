@@ -266,6 +266,7 @@
 - [Youtube影视专区](https://www.youtube.com/feed/storefront) - Youtube本身就有大量可以免费观看的影视哦
 - [点 点 字 幕 搜 索](https://www.samfunny.com/) - 一个专为美剧和英剧爱好者提供字幕资源的网站
 - [iHaveNoTV](https://ihavenotv.com/) - 一个免费的在线纪录片网站，收录了大量高质量英文纪录片，让你能通过观看BBC、PBS等优质纪录片来提升英语听力和专业词汇
+- [TubeVocab](https://www.tubevocab.com) - YouTube 视频学英语词汇：点击字幕中任意单词即生成带翻译/发音/原句的 AI 闪卡，配合间隔复习 (spaced repetition) 帮助记忆。UI 支持中文等 10 种语言
 
 ## 阅读材料
 
