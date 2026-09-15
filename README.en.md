@@ -417,6 +417,9 @@ Requires some English foundation — encourage active communication with interna
 - [World's Radio](https://www.worldsradio.com/) - Global foreign language radio
 - [TaiciShe (英语台词社)](https://www.taicishe.com/) - Movie and TV show quotes database
 - [Ultra Land Translation Battle](https://ultraland.app/zh-CN) - Compete globally by translating sentences into English
+- [Merriam-Webster](https://www.merriam-webster.com/) - Provides definitions, pronunciations, and etymologies for various words
+- [Up: A Guide to Advancement in Life](https://github.com/byoungd/up) - A lifelong learning guide for the AI era, starting from English
+- [Book Dash](https://bookdash.org/books/) - A nonprofit website offering various types of English picture books
 
 ## Social Media
 
