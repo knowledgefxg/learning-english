@@ -419,6 +419,9 @@
 - [World's Radio](https://www.worldsradio.com/) - 收录了全球多个外语电台
 - [英语台词社](https://www.taicishe.com/) - 收录海量电影和美剧的台词
 - [Ultra Land 翻译之战](https://ultraland.app/zh-CN) - 玩家将外语句子翻译成英语（或根据模式），与全球其他玩家竞争
+- [Merriam-Webster](https://www.merriam-webster.com/) - 提供各种词条的释义、发音和词源查询
+- [人生进阶指南](https://github.com/byoungd/up) - 英语出发的AI 时代终身学习指南
+- [Book Dash](https://bookdash.org/books/) - 提供各种类型英文绘本的公益性网站
 
 ## 社交媒体
 
