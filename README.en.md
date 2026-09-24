@@ -398,6 +398,7 @@ Requires some English foundation — encourage active communication with interna
 - [Infinite Craft](https://neal.fun/infinite-craft/) - Combine elements to learn vocabulary creatively
 - [Crash Course](https://thecrashcourse.com/) - Educational videos on history, science, literature, and more
 - [EnglishBanana](https://www.englishbanana.com/) - 4000+ pages of free printable ESL resources
+- [UniverseHall](https://universehall.com/en) - English lessons, level checks, and practice games with English and Turkish interfaces.
 - [engoo](https://engoo.com/app/materials/en) - Structured materials for all levels
 - [Shana Project](https://www.shanaproject.com/) - Free English-dubbed anime downloads
 - [English Reader](https://read.english-reader.com/) - One-click lookup, read-aloud, translation, word lists
