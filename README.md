@@ -510,6 +510,10 @@
 - [MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档中的真实语境学习英语单词的应用
 - [Comic Translate](https://github.com/ogkalu2/comic-translate) - 一个自动翻译漫画的开源项目
 - [LeafyApp](https://leafyapp.uk) - Mac 上的屏幕取词生词本，按 ⌥A 框住屏幕上任意一个词，把这个词连同它所在的整句一起存进词库，PDF、视频字幕、图片里的词也能取，之后可以用挖空原句的方式复习
+- [Qingjian](https://github.com/qingjian-team/qingjian) - 打字的时候会顺手教你一点外语
+- [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
+
+  
 ## 适合应试
 
 适合单纯为了应付考试而学习的英语🧐
