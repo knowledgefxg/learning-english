@@ -506,6 +506,8 @@ Collection in progress.
 - [WordPecker App](https://github.com/baturyilmaz/wordpecker-app) - Duolingo-style interactive English tool
 - [MuJing](https://github.com/tangshimin/MuJing) - Learn vocabulary from movies, TV, and documents
 - [Comic Translate](https://github.com/ogkalu2/comic-translate) - Auto-translate manga — open source
+- [Qingjian](https://github.com/qingjian-team/qingjian) - picks up a bit of a foreign language for you while you type
+- [EchoType](https://github.com/Talljack/echo-type) - listening, speaking, reading and writing, all in one workflow
 
 ## Exam Preparation
 
