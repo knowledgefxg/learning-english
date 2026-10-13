@@ -490,6 +490,7 @@
 - [Linglass](https://linglass.app/) - 一款浏览器插件，看 YouTube、Netflix 时同时显示英文和中文两行字幕，点任意单词就能看到结合上下文的释义、音标和发音，生词可以存成卡片按记忆曲线复习，还能对整句做 AI 语法分析
 - [OnlineCorrection](https://www.onlinecorrection.com/) - 英语语法检查在线工具
 - [GetYarn](https://getyarn.io/) - 类似 PlayPhrase 的网站，让你能搜索电影和电视剧中的台词片段，查看其使用场景，并通过原声视频加深记忆的学习工具
+- [WinkLingo 眨眼英语](https://winklingo.com/zh) - 用海量电影原声片段学地道英语：搜任意词组，即刻看到它在真实电影场景里怎么说；AI 逐句拆解语块、俚语、语法和发音，点词即查牛津释义；章节精讲、跟读、慢速、单句循环等多种学习模式，生词一键收藏复习
 - [Youtube双语字幕](https://chromewebstore.google.com/detail/youtube%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95-youtube%E5%AD%97%E5%B9%95%E5%A2%9E%E5%BC%BA-c/imeedihedcjeieaokdpgandbgpjmadoh) - 一个浏览器插件，提供Youtube双语字幕与Youtube字幕增强、ChatGPT 翻译、单词收藏等英语学习功能
 - [TasteDive](https://tastedive.com/) - 一个基于你已喜欢的电影、电视剧、书籍、音乐等内容，智能推荐相似作品的网站，有助于找到适合你水平和兴趣的英语学习材料
 - [qwerty](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
