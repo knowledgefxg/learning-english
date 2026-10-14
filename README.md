@@ -512,6 +512,7 @@
 - [LeafyApp](https://leafyapp.uk) - Mac 上的屏幕取词生词本，按 ⌥A 框住屏幕上任意一个词，把这个词连同它所在的整句一起存进词库，PDF、视频字幕、图片里的词也能取，之后可以用挖空原句的方式复习
 - [Qingjian](https://github.com/qingjian-team/qingjian) - 打字的时候会顺手教你一点外语
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
+- [YouTongue](https://youtongue.me) - 输入任意英语单词或短语，就能在真人 YouTube 短片段中听到它的实际说法（可选美式、英式、澳式口音），还有每天 3 分钟的免费真实语音听写
 
   
 ## 适合应试
