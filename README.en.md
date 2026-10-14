@@ -508,6 +508,7 @@ Collection in progress.
 - [Comic Translate](https://github.com/ogkalu2/comic-translate) - Auto-translate manga — open source
 - [Qingjian](https://github.com/qingjian-team/qingjian) - picks up a bit of a foreign language for you while you type
 - [EchoType](https://github.com/Talljack/echo-type) - listening, speaking, reading and writing, all in one workflow
+- [YouTongue](https://youtongue.me) - Hear any English word or phrase said by real people in short YouTube clips (US, UK and Australian accents), plus a free daily dictation from real speech
 
 ## Exam Preparation
 
