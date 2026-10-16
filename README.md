@@ -521,6 +521,7 @@
 - [零基础英语（学渣的自我拯救）](https://b23.tv/UGQisv4) - 小学到中考所有英语考点知识讲解，将你拉回学生时代
 - [英语零基础语法大全精讲](https://b23.tv/VZic7Rs) - 小学到大学所有英语语法知识讲解
 - [英语语法自学](https://b23.tv/0NE8quT) - 英语语法从入门到高级 要恶补英语语法的快来吧
+- [Free English Learning Tools](https://github.com/shelfom/free-english-learning-tools) - 11 个免费开源的雅思和剑桥英语练习网站：听力、阅读同义替换，写作改错与改写，口语 AI 模考，无需注册
 
 ## 其他资源
 
@@ -548,6 +549,7 @@
 - [ChuChu TV](https://www.youtube.com/@ChuChuTV) - 该频道提供各种英文儿童歌曲和教育内容
 - [freekidsbooks](https://freekidsbooks.org/) - 无套路无广告，主要提供免费儿童英文书籍的网站
 - [T-Series Kids Hut](https://www.youtube.com/@kidshut) - 提供各种英文儿歌和故事节目
+- [剑桥 KET/PET/FCE 插画词卡](https://shelfom.github.io/free-english-learning-tools/#cambridge-english) - 剑桥 KET、PET 官方词表和 FCE 核心词，每个词一幅绘本插画，英式发音，免费无需注册
 
 ## 常见问题
 
