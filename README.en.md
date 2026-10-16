@@ -516,6 +516,7 @@ Resources for exam-focused English learning.
 - [Zero to Basic English (Bilibili)](https://b23.tv/UGQisv4) - Elementary through middle school exam coverage
 - [Complete Grammar Course (Bilibili)](https://b23.tv/VZic7Rs) - Grammar from elementary to university
 - [Self-Study Grammar (Bilibili)](https://b23.tv/0NE8quT) - Grammar from beginner to advanced
+- [Free English Learning Tools](https://github.com/shelfom/free-english-learning-tools) - 11 free, open-source IELTS and Cambridge English practice sites: listening and reading paraphrase drills, writing correction and rewriting, AI speaking mock test, no sign-up
 
 ## Other Resources
 
@@ -543,6 +544,7 @@ Resources for exam-focused English learning.
 - [ChuChu TV](https://www.youtube.com/@ChuChuTV) - English children's songs and educational content
 - [Free Kids Books](https://freekidsbooks.org/) - Free children's English books, no ads
 - [T-Series Kids Hut](https://www.youtube.com/@kidshut) - English nursery rhymes and stories
+- [Cambridge KET/PET/FCE Picture Flashcards](https://shelfom.github.io/free-english-learning-tools/#cambridge-english) - Every word on the KET and PET lists plus FCE core words, each with a storybook picture and British audio, free with no sign-up
 
 ## FAQ
 
