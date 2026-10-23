@@ -391,6 +391,7 @@
 - [Quizlet](https://quizlet.com/cn) - 制作和分享在线词卡的学习工具，支持多种学习模式
 - [玄元祐语法](https://grammar.codeyu.com/) - 适合应试教育的英语语法写作
 - [面试中的英语](https://github.com/Interview-Science/interview-english) - English for Tech Interview 面试中的英语
+- [FunAudioChat](https://funaudiochat.org/) - 免费英语技术面试书面回答练习，提供简单关键词提示、自查清单和修改重练；无需账号。
 - [程序员雅思备考指南](https://ethan-lin.gitbook.io/ielts) - 备考思路、备考资料、考试形式、各科考试细节总结
 - [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc) - 一份基于克拉申语言学理论编写的在线文档,旨在为不同水平的英语自学者提供清晰的学习路径
 - [WordsFunny](https://wordsfunny.com/BeiShiGaoZhong_4/words) - 一个全栈英语单词学习网站,整合了各大权威教材和考试词汇
