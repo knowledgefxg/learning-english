@@ -420,6 +420,7 @@ Requires some English foundation — encourage active communication with interna
 - [Merriam-Webster](https://www.merriam-webster.com/) - Provides definitions, pronunciations, and etymologies for various words
 - [Up: A Guide to Advancement in Life](https://github.com/byoungd/up) - A lifelong learning guide for the AI era, starting from English
 - [Book Dash](https://bookdash.org/books/) - A nonprofit website offering various types of English picture books
+- [PlayVisualNovels](https://playvisualnovels.com/) - Play a wide range of English visual novel games online for free
 
 ## Social Media
 
@@ -508,6 +509,8 @@ Collection in progress.
 - [Comic Translate](https://github.com/ogkalu2/comic-translate) - Auto-translate manga — open source
 - [Qingjian](https://github.com/qingjian-team/qingjian) - picks up a bit of a foreign language for you while you type
 - [EchoType](https://github.com/Talljack/echo-type) - listening, speaking, reading and writing, all in one workflow
+- [Echo Loop](https://github.com/echo-loop/Echo-Loop) - An open-source app for English listening and speaking practice
+- [Word Atlas](https://github.com/designfuchen/word-atlas) - A free, open-source web app for learning IELTS vocabulary
 
 ## Exam Preparation
 
