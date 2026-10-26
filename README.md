@@ -422,6 +422,7 @@
 - [Merriam-Webster](https://www.merriam-webster.com/) - 提供各种词条的释义、发音和词源查询
 - [人生进阶指南](https://github.com/byoungd/up) - 英语出发的AI 时代终身学习指南
 - [Book Dash](https://bookdash.org/books/) - 提供各种类型英文绘本的公益性网站
+- [PlayVisualNovels](https://playvisualnovels.com/) - 免费在线畅玩各种英文视觉小说游戏
 
 ## 社交媒体
 
