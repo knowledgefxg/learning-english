@@ -389,6 +389,7 @@ Requires some English foundation — encourage active communication with interna
 - [Quizlet](https://quizlet.com/cn) - Flashcards and study modes
 - [Xuanyuan Grammar (玄元祐语法)](https://grammar.codeyu.com/) - Grammar for exam-oriented learners
 - [Interview English](https://github.com/Interview-Science/interview-english) - English for tech interviews
+- [FunAudioChat](https://funaudiochat.org/) - Free written-answer practice for technical interviews in English, with simple keyword cues, a self-review checklist and repeat attempts; no account required.
 - [IELTS Guide for Programmers](https://ethan-lin.gitbook.io/ielts) - IELTS prep for developers
 - [English Improvement Guide](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc) - Learning path based on Krashen's theories
 - [WordsFunny](https://wordsfunny.com/BeiShiGaoZhong_4/words) - Vocabulary from major textbooks and exams
