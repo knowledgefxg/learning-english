@@ -61,6 +61,8 @@ Podcasts offer engaging content to improve listening skills, covering a wide ran
 - [Speak English With Class](https://www.youtube.com/@speakenglishwithclass) - Free podcast-style videos for fun and effective learning
 - [Dan Koe](https://www.youtube.com/@dankoetalks) - Personal development, productivity, and entrepreneurship insights
 - [Mel Robbins](https://www.youtube.com/@melrobbins) - Motivational speaker sharing strategies for overcoming obstacles and achieving success
+- [30-minute everyday](https://www.youtube.com/@30-minuteeveryday) - Relaxed podcast-style conversations that help A2–B1 learners practice English listening every day
+- [Cosmo Explains](https://www.youtube.com/@CosmoExplainsYT) - Slow-paced long-form videos explaining hard science topics
 
 ### Tech Podcasts 💻
 
