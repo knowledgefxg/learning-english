@@ -146,6 +146,7 @@
 - [HelloTalk](https://www.hellotalk.com/) - 寻找语言伙伴
 - [Speechling](https://speechling.com/) - 获取发音反馈
 - [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
+- [像话](https://mirrorsay.com) - 说一句英语，告诉你母语者会怎么说，再带你跟读逐词对比；卡住时说中文也行（iOS / Android，免费）
 - [发音技巧舌位图解](https://www.bilibili.com/video/BV1Ji4y1P7Lu) - 有具体舌位图，对发音很有帮助
 
 ## 视频学习
