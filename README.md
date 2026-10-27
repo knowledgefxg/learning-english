@@ -59,6 +59,8 @@
 - [Speak English With Class](https://www.youtube.com/@speakenglishwithclass) - 精选的一系列免费、播客风格的视频，让学习英语既有趣又有效
 - [Dan Koe](https://www.youtube.com/@dankoetalks) - 播客分享了许多关于个人发展、生产力提升和创业策略的见解，帮助观众实现工作与生活的平衡
 - [Mel Robbins](https://www.youtube.com/@melrobbins) - 著名的励志演说家、作家和媒体人物，她的见解为世界各地的人们提供了克服障碍、提高生产力和实现持久成功的可行策略。
+- [30-minute everyday](https://www.youtube.com/@30-minuteeveryday) - 一个用轻松播客对话帮助 A2-B1 学习者每天练习英语听力的频道
+- [Cosmo Explains](https://www.youtube.com/@CosmoExplainsYT) - 慢节奏长视频讲解硬核科学知识
 
 ### 科技播客 💻
 
