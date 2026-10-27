@@ -228,6 +228,10 @@ Recommended English learning channels.
 - [The Angry Explainer](https://www.youtube.com/@theangryexplainer) - Edgy style learning method tips
 - [Techquickie](https://www.youtube.com/@techquickie) - Learn English while picking up tech knowledge
 - [Explainify why](https://www.youtube.com/@explainify67) - Explains technology, artificial intelligence, and IT-related topics in English
+- [Reading English with Eric](https://www.youtube.com/@readingwitheric) - A YouTube channel built on the idea of learning English through reading
+- [Apex Psychology](https://www.youtube.com/@ApexPsychologyYT) - A psychology channel that uses cartoon animation to explain everyday psychological phenomena in plain terms
+- [DASA Daily English](https://www.youtube.com/@DailyEnglishwithDASA) - Short stick-figure animations explaining practical English and effective learning methods
+- [Jon Peng English](https://www.youtube.com/@JonPengEnglish) - Real-life skits that teach native Chinese speakers natural English for everyday situations
 
 ### Learning Videos 📺
 
