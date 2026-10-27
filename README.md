@@ -228,6 +228,10 @@
 - [The Angry Explainer](https://www.youtube.com/@theangryexplainer) - 毒舌风格教学习方法
 - [Techquickie](https://www.youtube.com/@techquickie) - 学习英语的同时涨点科技小知识
 - [Explainify why](https://www.youtube.com/@explainify67) - 英语讲解科技、人工智能和 IT 相关的主题
+- [Reading English with Eric](https://www.youtube.com/@readingwitheric) - 主张通过阅读学英语的 YouTube 频道
+- [Apex Psychology](https://www.youtube.com/@ApexPsychologyYT) - 一个用卡通动画通俗解读日常心理现象的心理学科普频道
+- [DASA Daily English](https://www.youtube.com/@DailyEnglishwithDASA) - 用几分钟火柴人动画讲解实用英语知识与学习方法
+- [Jon Peng English](https://www.youtube.com/@JonPengEnglish) - 用情景短剧教中文母语者在真实场景中说地道英语
 
 ### 学习视频 📺
 
