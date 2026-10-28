@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [English Chunk Flow](https://github.com/oeniao/english-chunk-flow) - 开源的 AI Agent 技能（需 Codex/Cursor 等支持 Agent Skills 和本地脚本的宿主），将英文文本或音频及其转录稿制作成语法意群精听课程，支持逐句重播、收藏难点，以及中/日/韩/阿/西/葡/德/俄语语境解释
 
   
 ## 适合应试
