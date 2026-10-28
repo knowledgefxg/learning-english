@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - 从视频、音频、漫画和书籍中自动制作 Anki 英语单词卡
 
   
 ## 适合应试

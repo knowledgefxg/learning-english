@@ -517,6 +517,7 @@ Collection in progress.
 - [EchoType](https://github.com/Talljack/echo-type) - listening, speaking, reading and writing, all in one workflow
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - An open-source app for English listening and speaking practice
 - [Word Atlas](https://github.com/designfuchen/word-atlas) - A free, open-source web app for learning IELTS vocabulary
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated English vocabulary card creation from video, audio, manga and books
 
 ## Exam Preparation
 
