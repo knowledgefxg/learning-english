@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [ImagineYourBook](https://www.imagineyourbook.com/) - AI 写书网站，在提示里写明自己的英语水平和感兴趣的话题，就能生成一本量身定制的英文读物或小说（5,000 词起），可导出 EPUB、Word 放进 Kindle 做泛读。内容是 AI 生成，适合当练习材料。7 天免费试用（需绑卡），之后付费
 
   
 ## 适合应试
