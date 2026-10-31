@@ -120,6 +120,7 @@
 - [ESPN Radio](https://www.espn.com/espnradio/) - 专注体育新闻和评论和直播
 - [OneStop Radio](https://theonestopradio.com/) - 一个可以免费收听全球190多个国家67000+电台的平台
 - [Radio Garden](https://radio.garden/settings) - 全球广播电台
+- [Roam Radio](https://roamradios.com/languages/english) - 免费的全球网络电台目录，可按国家、语言或流派找英语电台，浏览器直接收听，无需注册
 
 ### ASMR专题 🎧
 
