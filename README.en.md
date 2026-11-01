@@ -477,6 +477,7 @@ Collection in progress.
 
 ## Useful Tools
 
+- [VocaFlare Clips](https://clips.vocaflare.com/playground) - Type an English or Spanish word and hear it in real YouTube clips that jump to the second it is spoken, with captions and a CEFR level filter; free, no sign-up
 - [Anki](https://github.com/ankitects/anki) - Spaced repetition flashcard app for vocabulary and more
 - [DashPlayer](https://github.com/solidSpoon/DashPlayer) - Video player built for language learners
 - [Lexile Hub](https://hub.lexile.com/) - Find books matched to your reading level
