@@ -134,6 +134,7 @@
 
 ## 口语练习 
 
+- [VocaFlare AI](https://vocaflare.com/zh/ai) - AI 语音外教 App（iOS / Android），开口和 AI 外教对话练习英语口语，支持情景角色扮演，并纠正语法和用词
 - [ChatGPT](https://chatgpt.com/) - 利用GPT的高级语音功能进行口语对话
 - [Grok](https://x.ai/grok) - X旗下的AI工具，有高级语音功能，甚至可以涩涩
 - [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa/videos) - 专注于发音技巧讲解，自然交谈方式

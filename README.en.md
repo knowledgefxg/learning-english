@@ -135,6 +135,7 @@ Relaxing listening practice — also great for falling asleep.
 
 ## Speaking
 
+- [VocaFlare AI](https://vocaflare.com/en/ai) - AI voice tutor app (iOS, Android) for speaking practice with role-play and corrections on grammar and word choice
 - [ChatGPT](https://chatgpt.com/) - Practice speaking with GPT's advanced voice mode
 - [Grok](https://x.ai/grok) - X's AI tool with advanced voice features
 - [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa/videos) - Pronunciation tips and natural conversation
