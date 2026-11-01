@@ -479,6 +479,7 @@
 
 ## 实用工具
 
+- [VocaFlare Clips](https://clips.vocaflare.com/playground) - 输入一个英语或西班牙语单词，播放真实 YouTube 视频片段并直接跳到说出这个词的那一秒，附带字幕，可按 CEFR 等级筛选，免费无需注册
 - [Anki](https://github.com/ankitects/anki) - 一款基于间隔重复（Spaced Repetition）技术的学习软件，广泛用于帮助记忆词汇、语法和其他学习内容。它通过卡片的形式帮助用户复习和加深记忆，尤其适合语言学习、医学考试等需要大量记忆的领域。通过定期复习，Anki 可以大幅提高学习效率和记忆的长期保持
 - [DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平
 - [Lexile](https://hub.lexile.com/) - 专注于帮助用户找到适合其阅读水平的书籍、文章和其他教育资源。该平台通过蓝思指数评估文本的难度，帮助用户根据个人阅读能力选择合适的材料
