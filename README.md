@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [AnkiWordBank 英语 NGSL 1000](https://ankiwordbank.com/decks/1000-most-common-english-words-ngsl-frequency-list-elevenlabs-audio) - 可导入 Anki 的英语词汇卡组，支持中文提示，包含 AI 生成例句和语音合成音频；可在线预览，完整卡组一次性付费 $9.99
 
   
 ## 适合应试
