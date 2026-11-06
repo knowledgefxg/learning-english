@@ -277,7 +277,7 @@
 ## 阅读材料
 
 ### 新闻网站 📰
-
+- [卡皮阅读](https://capyread.com) - 主流外刊分级阅读，内置AI精读，沉浸式翻译，上下文查词
 - [Breaking News English](https://breakingnewsenglish.com/) - 分级新闻文章
 - [News in Levels](https://www.newsinlevels.com/) - 多难度级别新闻
 - [简明英语维基](https://simple.wikipedia.org/) - 易于理解的维基百科
