@@ -342,6 +342,7 @@ No download required — play directly in your browser.
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - Multiplayer word association game
 - [itch.io](https://itch.io/) - English indie games — browser and download
 - [ztype](https://zty.pe/) - Typing shooter game
+- [Couscous: Secret Word](https://couscous.ai/) - Guess a secret word by asking yes-or-no questions in English; a language model answers YES, NO or I DON'T KNOW
 
 ### Single-Player Games 🎮
 
