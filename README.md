@@ -343,6 +343,7 @@
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - 一款大型多人词语联想游戏，它既简单又复杂
 - [itch](https://itch.io/) - 大量英语游戏游玩下载平台，不仅可以下载还有很多可以浏览器玩耍
 - [ztype](https://zty.pe/) - 挺带感的英语打字射击游戏
+- [Couscous: Secret Word](https://couscous.ai/) - 英文猜词游戏：用英语提是非题（yes/no）猜出秘密单词，由语言模型判断并回答 YES、NO 或 I DON'T KNOW；每天一道新谜题
 
 ### 单机游戏 🎮
 
