@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [WordLinea](https://wordlinea.com/zh) - 看剧、读网页时查过的词，连同原句和出处存进词库，到期出一道题：先选意思，熟了改填空，再熟听发音拼写；YouTube、Netflix、B 站字幕和整个网页都能译成双语（Chrome、Edge、Safari 插件）
 
   
 ## 适合应试
