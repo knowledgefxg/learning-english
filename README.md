@@ -521,6 +521,7 @@
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
 - [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - 粘贴 YouTube 视频链接即可获取带时间戳的英文字幕全文，可复制或下载为 TXT、SRT 等格式，也能翻译成中文对照阅读，适合精听、跟读和整理生词；每天可免费提取少量字幕，付费套餐提供更多
 
   
 ## 适合应试
