@@ -483,6 +483,7 @@ Collection in progress.
 - [Enjoy](https://1000h.org/) - Open-source AI English assistant
 - [PlayPhrase](https://www.playphrase.me/) - Search movie clips to learn phrase usage
 - [BabelABC (巴别英语)](https://www.babelabc.com/) - Learn spoken English through curated video clips
+- [HumanPen](https://humanpen.net/) - Document translation and rewriting in English and other languages; credit-based, with 100 one-time signup credits for new accounts
 - [Grammarly](https://www.grammarly.com/) - Writing assistant for grammar and style
 - [Fix My Message](https://fixmymessage.com/) - Free AI grammar checker for short texts
 - [Vocabulary.com](https://www.vocabulary.com/) - Vocabulary tests, definitions, and learning tools
