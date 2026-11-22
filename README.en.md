@@ -337,6 +337,7 @@ No download required — play directly in your browser.
 - [Little Alchemy 2](https://littlealchemy2.com/) - Learn vocabulary through element combinations
 - [Helpful games](https://www.helpfulgames.com/subjects/english/) - Games for all four skills
 - [Knoword](https://knoword.com/) - Vocabulary game platform
+- [Daily Category Sprint](https://pufferparty.org/categories-game/) - Recall as many English words as you can for one category in 45 seconds.
 - [Visual Thesaurus Spelling Bee](https://www.visualthesaurus.com/bee/play) - Listen and spell words
 - [Word Whomp](https://www.pogo.com/) - Word creation games
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - Multiplayer word association game
