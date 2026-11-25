@@ -517,6 +517,7 @@ Collection in progress.
 - [EchoType](https://github.com/Talljack/echo-type) - listening, speaking, reading and writing, all in one workflow
 - [Echo Loop](https://github.com/echo-loop/Echo-Loop) - An open-source app for English listening and speaking practice
 - [Word Atlas](https://github.com/designfuchen/word-atlas) - A free, open-source web app for learning IELTS vocabulary
+- [Yasilove (雅思爱我)](https://yasilove.me/) - Free IELTS 5,999-word and CET-4/6 vocabulary site with UK/US phonetics, examples, spaced repetition and quizzes
 
 ## Exam Preparation
 
